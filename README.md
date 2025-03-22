@@ -3,18 +3,18 @@
 <details>
 <summary><strong>▼ Table of Contents</strong></summary>
 
-1. [Neuromorphics - Online Learning](#neuromorphics---online-learning)  
-2. [Neuromorphics - FPGA](#neuromorphics---fpga)  
-3. [Neuromorphics - Loihi](#neuromorphics---loihi)  
-4. [Neuromorphics - Optimization](#neuromorphics---optimization)  
-5. [Neuromorphics - Algorithm](#neuromorphics---algorithm)  
-6. [Neuromorphics - Wireless](#neuromorphics---wireless)
+1. [Neuromorphic Algorithms](#neuromorphic-algorithms)  
+2. [Memristive & Phase-Change Devices for neuromorphic](#memristive--phase-change-devices-for-neuromorphic)  
+3. [Photonic Neuromorphic](#photonic-neuromorphic)  
+4. [Quantum Neuromorphic](#neuromorphics---optimization)  
+5. [Spintronic Neuromorphic](#neuromorphics---algorithm)  
+6. [Neuromorphic Hardware & Chips](#neuromorphics---wireless)
 
 </details>
 
 ---
 
-## Neuromorphics - Online Learning
+## Neuromorphic Algorithms
 
 | Publish Date | Title | Authors | PDF | Code |
 |--------------|-------|---------|-----|------|
@@ -28,10 +28,9 @@
 
 ---
 
-## Neuromorphics - FPGA
+## Memristive & Phase-Change Devices for neuromorphic
 *Coming soon...*
 
-## Neuromorphics - Loihi
+## Photonic Neuromorphic
 *Coming soon...*
 
-<!-- Add more sections as needed -->
