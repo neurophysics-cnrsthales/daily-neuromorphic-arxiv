@@ -18,8 +18,8 @@
 
 | Publish Date | Cat. | Journ./Conf.| Title |  PDF | Code |
 |--------------|-------|---------|-----|------|------|
-| 2025-03-13 | DL techniques | Transformers without normalization | arxiv | [2503.10622](https://arxiv.org/pdf/2503.10622) | [link](https://jiachenzhu.github.io/DyT/) |
-| 2025-03-13 | DL techniques | Transformers without normalization | arxiv | [2503.10622](https://arxiv.org/pdf/2503.10622) | [link](https://jiachenzhu.github.io/DyT/) |
+| 2025-03-13 | DL techniques | arxiv| Transformers without normalization  | [2503.10622](https://arxiv.org/pdf/2503.10622) | [link](https://jiachenzhu.github.io/DyT/) |
+| 2025-03-13 | DL techniques | arxiv | Transformers without normalization | [2503.10622](https://arxiv.org/pdf/2503.10622) | [link](https://jiachenzhu.github.io/DyT/) |
 
 ---
 
