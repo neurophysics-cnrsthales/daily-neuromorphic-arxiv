@@ -6,9 +6,9 @@
 1. [Neuromorphic Algorithms](#neuromorphic-algorithms)  
 2. [Memristive & Phase-Change Devices for neuromorphic](#memristive--phase-change-devices-for-neuromorphic)  
 3. [Photonic Neuromorphic](#photonic-neuromorphic)  
-4. [Quantum Neuromorphic](#neuromorphics---optimization)  
-5. [Spintronic Neuromorphic](#neuromorphics---algorithm)  
-6. [Neuromorphic Hardware & Chips](#neuromorphics---wireless)
+4. [Quantum Neuromorphic](#quantum-neuromorphic)  
+5. [Spintronic Neuromorphic](#spintronic-neuromorphic)  
+6. [Neuromorphic Hardware & Chips](#neuromorphic-hardware--chips)
 
 </details>
 
@@ -16,15 +16,10 @@
 
 ## Neuromorphic Algorithms
 
-| Publish Date | Title | Authors | PDF | Code |
-|--------------|-------|---------|-----|------|
-| 2024-11-01 | Reply to: Limitations in odour recognition and generalisation in a neuromorphic olfactory circuit | Roy Moyal et.al. | [2411.10456v1](https://arxiv.org/abs/2411.10456v1) | null |
-| 2024-09-17 | Bio-Inspired Mamba: Temporal Locality and Bioplausible Learning in Selective State Space Models | Jiahao Qin et.al. | [2409.11263v1](https://arxiv.org/abs/2409.11263v1) | null |
-| 2024-08-28 | Emulating Brain-like Rapid Learning in Neuromorphic Edge Computing | Kenneth Stewart et.al. | [2408.15800v1](https://arxiv.org/abs/2408.15800v1) | [link](https://github.com/example/repo) |
-| 2024-08-27 | Distance-Forward Learning: Enhancing the Forward-Forward Algorithm Towards High-Performance On-Chip Learning | Yujie Wu et.al. | [2408.14925v1](https://arxiv.org/abs/2408.14925v1) | null |
-| 2024-08-09 | Inferring Ingrained Remote Information in AC Power Flows Using Neuromorphic Modality Regime | Xiaoguang Diao et.al. | [2407.14883v2](https://arxiv.org/abs/2407.14883v2) | null |
-| 2024-05-24 | Neuromorphic dreaming: A pathway to efficient learning in artificial agents | Ingo Blakowski et.al. | [2405.15616v1](https://arxiv.org/abs/2405.15616v1) | [link](https://github.com/example/repo) |
-| 2024-02-25 | Efficient Online Learning for Networks of Two-Compartment Spiking Neurons | Yujia Yin et.al. | [2402.15969v1](https://arxiv.org/abs/2402.15969v1) | null |
+| Publish Date | Cat. | Journ./Conf.| Title |  PDF | Code |
+|--------------|-------|---------|-----|------|------|
+| 2025-03-13 | DL techniques | Transformers without normalization | arxiv | [2503.10622](https://arxiv.org/pdf/2503.10622) | [link](https://jiachenzhu.github.io/DyT/) |
+| 2025-03-13 | DL techniques | Transformers without normalization | arxiv | [2503.10622](https://arxiv.org/pdf/2503.10622) | [link](https://jiachenzhu.github.io/DyT/) |
 
 ---
 
@@ -34,3 +29,11 @@
 ## Photonic Neuromorphic
 *Coming soon...*
 
+## Quantum Neuromorphic
+*Coming soon...*
+
+## Spintronic Neuromorphic
+*Coming soon...*
+
+## Neuromorphic Hardware & Chips
+*Coming soon...*
