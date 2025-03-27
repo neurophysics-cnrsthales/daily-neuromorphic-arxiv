@@ -18,9 +18,9 @@
 
 | Publish Date | Cat. | Journ./Conf.| Title |  PDF | Code |
 |--------------|-------|---------|-----|------|------|
-| 2025-03-13 | DL techniques | arxiv | Transformers without normalization  | [paper](https://arxiv.org/pdf/2503.10622) | [link](https://jiachenzhu.github.io/DyT/) |
-| 2024-02-06 | SNNs, local learning | arXiv | Spiking forward forward | [paper](https://arxiv.org/pdf/2502.20411) | null  |
-| 2022-12-01 | Pruning | NeurIPS | Lottery Tickets on a Data Diet: Finding Initializations with Sparse Trainable Networks | [paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/77dd8e90fe833eba5fae86cf017d7a56-Abstract-Conference.html) | null |
+| 2025-03 | DL techniques | arxiv | Transformers without normalization  | [paper](https://arxiv.org/pdf/2503.10622) | [link](https://jiachenzhu.github.io/DyT/) |
+| 2024-02 | SNNs, local learning | arXiv | Spiking forward forward | [paper](https://arxiv.org/pdf/2502.20411) | null  |
+| 2022-12 | Pruning | NeurIPS | Lottery Tickets on a Data Diet: Finding Initializations with Sparse Trainable Networks | [paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/77dd8e90fe833eba5fae86cf017d7a56-Abstract-Conference.html) | null |
 
 
 ---
@@ -29,8 +29,8 @@
 
 | Publish Date | Cat. | Journ./Conf.| Title |  PDF | Code |
 |--------------|-------|---------|-----|------|------|
-| 2025-01-08   | Memristors | Nat. Elect. | Self-supervised video processing with self-calibration on an analogue computing platform | [paper](https://www-nature-com.ezproxy.universite-paris-saclay.fr/articles/s41928-024-01318-6) | null |
-| 2024-04-02 | DL techniques, Memristors | Sci.Rep. | Blooming and pruning: learning from mistakes with memristive synapses | [paper](https://www.nature.com/articles/s41598-024-57660-4) | null |
+| 2025-01 | Memristors | Nat. Elect. | Self-supervised video processing with self-calibration on an analogue computing platform | [paper](https://www-nature-com.ezproxy.universite-paris-saclay.fr/articles/s41928-024-01318-6) | null |
+| 2024-04 | DL techniques, Memristors | Sci.Rep. | Blooming and pruning: learning from mistakes with memristive synapses | [paper](https://www.nature.com/articles/s41598-024-57660-4) | null |
 
 
 ## Photonic Neuromorphic
