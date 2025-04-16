@@ -260,7 +260,7 @@ if __name__ == "__main__":
     "\"Neuromorphic\" AND (\"Online learning\" OR \"bio-plausible learning\" OR \"biological learning\" OR \"local learning\"OR \"algorithm\")"
 )
     keywords["Spintronics - RF"]  = "\"Spintronics\"AND\"RF\""
-    keywords["Neuromorphics - FPGA"]  = "\"Neuromorphic\"AND\"FPGA\""
+    keywords["Neuromorphics - Quantum"]  = "\"Neuromorphic\"AND\"Quantum\""
  
 
     for topic,keyword in keywords.items():
