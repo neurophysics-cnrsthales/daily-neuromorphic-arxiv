@@ -256,7 +256,9 @@ if __name__ == "__main__":
     # keywords["Neuromorphics"]                    = "\"Neuromorphic\"OR\"Neuromorphics\""
     keywords["Neuromorphics - Spintronics"]  = "\"Neuromorphic\"AND\"spintronics\""
     keywords["Spintronics - Circuit"]  = "\"Spintronics\"AND\"Circuit\""  
-    keywords["Neuromorphics - Online Learning"]  = "\"Neuromorphic\"AND\"Online learning\""
+    keywords["Neuromorphics - Online Learning"]  = (
+    "\"Neuromorphic\" AND (\"Online learning\" OR \"bio-plausible learning\" OR \"biological learning\" OR \"local learning\"OR \"algorithm\")"
+)
     keywords["Spintronics - RF"]  = "\"Spintronics\"AND\"RF\""
     keywords["Neuromorphics - FPGA"]  = "\"Neuromorphic\"AND\"FPGA\""
  
