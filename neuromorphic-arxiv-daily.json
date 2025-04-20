@@ -253,7 +253,7 @@
     "1505.02495": "|**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|\n",
     "1304.7118": "|**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|\n",
     "2504.11568": "|**2025-04-15**|**Adaptively Pruned Spiking Neural Networks for Energy-Efficient Intracortical Neural Decoding**|Francesca Rivelli et.al.|[2504.11568v1](http://arxiv.org/abs/2504.11568v1)|null|\n",
-    "2504.11026": "|**2025-04-15**|**A PyTorch-Compatible Spike Encoding Framework for Energy-Efficient Neuromorphic Applications**|Alexandru Vasilache et.al.|[2504.11026v1](http://arxiv.org/abs/2504.11026v1)|null|\n",
+    "2504.11026": "|**2025-04-15**|**A PyTorch-Compatible Spike Encoding Framework for Energy-Efficient Neuromorphic Applications**|Alexandru Vasilache et.al.|[2504.11026v1](http://arxiv.org/abs/2504.11026v1)|**[link](https://github.com/alex-vasilache/spike-encoding)**|\n",
     "2504.08588": "|**2025-04-11**|**Hardware, Algorithms, and Applications of the Neuromorphic Vision Sensor: a Review**|Claudio Cimarelli et.al.|[2504.08588v1](http://arxiv.org/abs/2504.08588v1)|null|\n",
     "2504.06793": "|**2025-04-09**|**Variable Metric Splitting Methods for Neuromorphic Circuits Simulation**|Amir Shahhosseini et.al.|[2504.06793v1](http://arxiv.org/abs/2504.06793v1)|null|\n",
     "2504.05341": "|**2025-04-06**|**Three-Factor Learning in Spiking Neural Networks: An Overview of Methods and Trends from a Machine Learning Perspective**|Szymon Mazurek et.al.|[2504.05341v1](http://arxiv.org/abs/2504.05341v1)|null|\n",
