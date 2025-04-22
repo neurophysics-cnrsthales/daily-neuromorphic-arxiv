@@ -259,7 +259,7 @@
     "2504.05341": "|**2025-04-06**|**Three-Factor Learning in Spiking Neural Networks: An Overview of Methods and Trends from a Machine Learning Perspective**|Szymon Mazurek et.al.|[2504.05341v1](http://arxiv.org/abs/2504.05341v1)|null|\n",
     "2504.02803": "|**2025-04-03**|**Beyond Discretization: A Continuous-Time Framework for Event Generation in Neuromorphic Pixels**|Aaron J. Hendrickson et.al.|[2504.02803v1](http://arxiv.org/abs/2504.02803v1)|null|\n",
     "2504.01275": "|**2025-04-02**|**A Retina-Inspired Pathway to Real-Time Motion Prediction inside Image Sensors for Extreme-Edge Intelligence**|Subhradip Chakraborty et.al.|[2504.01275v1](http://arxiv.org/abs/2504.01275v1)|null|\n",
-    "2504.00957": "|**2025-04-01**|**Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2504.00957v1](http://arxiv.org/abs/2504.00957v1)|null|\n",
+    "2504.00957": "|**2025-04-19**|**Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2504.00957v2](http://arxiv.org/abs/2504.00957v2)|null|\n",
     "2504.00679": "|**2025-04-01**|**QUEST: A Quantized Energy-Aware SNN Training Framework for Multi-State Neuromorphic Devices**|Sai Li et.al.|[2504.00679v1](http://arxiv.org/abs/2504.00679v1)|null|\n",
     "2503.22943": "|**2025-04-03**|**Towards Mobile Sensing with Event Cameras on High-agility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943v2](http://arxiv.org/abs/2503.22943v2)|null|\n",
     "2503.22810": "|**2025-03-28**|**Harnessing uncertainty when learning through Equilibrium Propagation in neural networks**|Jonathan Peters et.al.|[2503.22810v1](http://arxiv.org/abs/2503.22810v1)|null|\n",
@@ -348,7 +348,7 @@
     "2408.07388": "|**2024-08-14**|**DPSNN: Spiking Neural Network for Low-Latency Streaming Speech Enhancement**|Tao Sun et.al.|[2408.07388v1](http://arxiv.org/abs/2408.07388v1)|null|\n",
     "2408.07150": "|**2024-08-13**|**The Potential of Combined Learning Strategies to Enhance Energy Efficiency of Spiking Neuromorphic Systems**|Ali Shiri Sichani et.al.|[2408.07150v1](http://arxiv.org/abs/2408.07150v1)|null|\n",
     "2408.05183": "|**2024-08-13**|**Uncontrolled learning: co-design of neuromorphic hardware topology for neuromorphic algorithms**|Frank Barrows et.al.|[2408.05183v2](http://arxiv.org/abs/2408.05183v2)|null|\n",
-    "2504.12702": "|**2025-04-17**|**Embodied Neuromorphic Control Applied on a 7-DOF Robotic Manipulator**|Ziqi Wang et.al.|[2504.12702v1](http://arxiv.org/abs/2504.12702v1)|null|\n"
+    "2504.12702": "|**2025-04-17**|**Embodied Neuromorphic Control Applied on a 7-DOF Robotic Manipulator**|Ziqi Wang et.al.|[2504.12702v1](http://arxiv.org/abs/2504.12702v1)|**[link](https://bitbucket.org/icubdataset/inverse-dynamic)**|\n"
   },
   "Spintronics - RF": {
     "2504.04273": "|**2025-04-05**|**Spin-Torque-Driven Non-uniform Dynamics of an Antivortex Core in Truncated Astroid Shaped Nanomagnets**|Ahmet Koral Aykin et.al.|[2504.04273v1](http://arxiv.org/abs/2504.04273v1)|null|\n",
