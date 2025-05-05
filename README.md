@@ -1,4 +1,4 @@
-## Updated on 2025.05.04
+## Updated on 2025.05.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -116,7 +116,7 @@
 |**2020-10-23**|**Recent Progress on Electrical Excitation and Manipulation of Spin-Waves in Spin Hall Nano-Oscillators**|Liyuan Li et.al.|[2006.09737v2](http://arxiv.org/abs/2006.09737v2)|null|
 |**2020-06-03**|**Giant voltage control of spin Hall nano-oscillator damping**|Himanshu Fulara et.al.|[2006.02151v1](http://arxiv.org/abs/2006.02151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250505>back to top</a>)</p>
 
 ## Spintronics - Circuit
 
@@ -225,12 +225,13 @@
 |**2020-08-23**|**Picosecond Spin Orbit Torque Switching**|Kaushalya Jhuria et.al.|[1912.01377v4](http://arxiv.org/abs/1912.01377v4)|null|
 |**2019-12-03**|**Spin-Orbit-Torque-based Devices, Circuits and Architectures**|Farshad Moradi et.al.|[1912.01347v1](http://arxiv.org/abs/1912.01347v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250505>back to top</a>)</p>
 
 ## Neuromorphics - Online Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Snakes in the Plane: Controllable Gliders in a Nanomagnetic Metamaterial**|Arthur Penty et.al.|[2505.01116v1](http://arxiv.org/abs/2505.01116v1)|null|
 |**2025-04-25**|**Experimental neuromorphic computing based on quantum memristor**|Mirela Selimović et.al.|[2504.18694v1](http://arxiv.org/abs/2504.18694v1)|null|
 |**2025-04-17**|**Embodied Neuromorphic Control Applied on a 7-DOF Robotic Manipulator**|Ziqi Wang et.al.|[2504.12702v1](http://arxiv.org/abs/2504.12702v1)|**[link](https://bitbucket.org/icubdataset/inverse-dynamic)**|
 |**2025-04-15**|**Adaptively Pruned Spiking Neural Networks for Energy-Efficient Intracortical Neural Decoding**|Francesca Rivelli et.al.|[2504.11568v1](http://arxiv.org/abs/2504.11568v1)|null|
@@ -378,7 +379,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250505>back to top</a>)</p>
 
 ## Spintronics - RF
 
@@ -422,7 +423,7 @@
 |**2012-08-09**|**Disorder-free sputtering method on graphene**|Xue Peng Qiu et.al.|[1208.1835v1](http://arxiv.org/abs/1208.1835v1)|null|
 |**2012-05-21**|**Manipulating dipolar and spin-exchange interactions in spin-1 Bose-Einstein condensates**|Bo-Yuan Ning et.al.|[1201.1779v3](http://arxiv.org/abs/1201.1779v3)|null|
 
-<p align=right>(<a href=#Updated-on-20250504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250505>back to top</a>)</p>
 
 ## Neuromorphics - Quantum
 
@@ -530,5 +531,5 @@
 |**2022-07-12**|**Multistable Topological Mechanical Metamaterials**|Haning Xiu et.al.|[2207.05826v1](http://arxiv.org/abs/2207.05826v1)|null|
 |**2022-10-19**|**Mechanism of the Resistivity Switching Induced by the Joule Heating in Crystalline NbO$_2$**|Samuel W. Olin et.al.|[2207.02682v2](http://arxiv.org/abs/2207.02682v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250505>back to top</a>)</p>
 
