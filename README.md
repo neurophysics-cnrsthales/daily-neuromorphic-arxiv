@@ -1,4 +1,4 @@
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,9 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-17**|**Semiconductor quantum well magnetic memory using confinement from proximity exchange fields for high magnetoresistances in a field-effect transistor**|William S. Rogers et.al.|[2505.11767v1](http://arxiv.org/abs/2505.11767v1)|null|
 |**2025-05-12**|**Beyond the Octupole Approximation in Non-Collinear Antiferromagnetic Thin Films**|Freya Johnson et.al.|[2505.07489v1](http://arxiv.org/abs/2505.07489v1)|null|
 |**2025-05-09**|**What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips**|Renjie Li et.al.|[2505.05794v1](http://arxiv.org/abs/2505.05794v1)|null|
-|**2025-04-09**|**A Physics-Based Circuit Model for Magnetic Tunnel Junctions**|Steven Louis et.al.|[2503.20813v2](http://arxiv.org/abs/2503.20813v2)|null|
+|**2025-05-18**|**A Physics-Based Circuit Model for Magnetic Tunnel Junctions**|Steven Louis et.al.|[2503.20813v3](http://arxiv.org/abs/2503.20813v3)|null|
 |**2025-03-13**|**2D Spintronics for Neuromorphic Computing with Scalability and Energy Efficiency**|Douglas Z. Plummer et.al.|[2503.17376v1](http://arxiv.org/abs/2503.17376v1)|null|
 |**2025-01-31**|**Novel Magnetic Materials for Spintronic Device Technology**|A. Sud et.al.|[2501.19087v1](http://arxiv.org/abs/2501.19087v1)|null|
 |**2025-01-22**|**Enhanced Field-Free Perpendicular Magnetization Switching via spin splitting torque in Altermagnetic RuO2-based Heterostructures**|Badsha Sekh et.al.|[2501.12593v1](http://arxiv.org/abs/2501.12593v1)|null|
@@ -118,16 +119,17 @@
 |**2020-10-23**|**Recent Progress on Electrical Excitation and Manipulation of Spin-Waves in Spin Hall Nano-Oscillators**|Liyuan Li et.al.|[2006.09737v2](http://arxiv.org/abs/2006.09737v2)|null|
 |**2020-06-03**|**Giant voltage control of spin Hall nano-oscillator damping**|Himanshu Fulara et.al.|[2006.02151v1](http://arxiv.org/abs/2006.02151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
 
 ## Spintronics - Circuit
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-17**|**Semiconductor quantum well magnetic memory using confinement from proximity exchange fields for high magnetoresistances in a field-effect transistor**|William S. Rogers et.al.|[2505.11767v1](http://arxiv.org/abs/2505.11767v1)|null|
 |**2025-05-09**|**What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips**|Renjie Li et.al.|[2505.05794v1](http://arxiv.org/abs/2505.05794v1)|null|
 |**2025-04-24**|**THz Emission from Spintronic Microstructure**|Abbas Ghaffari et.al.|[2504.17579v1](http://arxiv.org/abs/2504.17579v1)|null|
 |**2025-04-22**|**Designing Optimal Distorted-Octahedra Superlattices for Strong Topological Hall Effect**|Yiyan Fan et.al.|[2504.15563v1](http://arxiv.org/abs/2504.15563v1)|null|
-|**2025-04-09**|**A Physics-Based Circuit Model for Magnetic Tunnel Junctions**|Steven Louis et.al.|[2503.20813v2](http://arxiv.org/abs/2503.20813v2)|null|
+|**2025-05-18**|**A Physics-Based Circuit Model for Magnetic Tunnel Junctions**|Steven Louis et.al.|[2503.20813v3](http://arxiv.org/abs/2503.20813v3)|null|
 |**2025-03-13**|**Current-linear emergent induction of pinned skyrmion textures in an oxide bilayer**|Ludwig Scheuchenpflug et.al.|[2503.10600v1](http://arxiv.org/abs/2503.10600v1)|null|
 |**2025-01-22**|**Enhanced Field-Free Perpendicular Magnetization Switching via spin splitting torque in Altermagnetic RuO2-based Heterostructures**|Badsha Sekh et.al.|[2501.12593v1](http://arxiv.org/abs/2501.12593v1)|null|
 |**2025-03-21**|**Hybrid Opto-Electrical Excitation of Spin-Transfer Torque Nano-Oscillators for Advanced Computing**|Felix Oberbauer et.al.|[2501.00813v3](http://arxiv.org/abs/2501.00813v3)|null|
@@ -228,13 +230,14 @@
 |**2020-08-23**|**Picosecond Spin Orbit Torque Switching**|Kaushalya Jhuria et.al.|[1912.01377v4](http://arxiv.org/abs/1912.01377v4)|null|
 |**2019-12-03**|**Spin-Orbit-Torque-based Devices, Circuits and Architectures**|Farshad Moradi et.al.|[1912.01347v1](http://arxiv.org/abs/1912.01347v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
 
 ## Neuromorphics - Online Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-16**|**Pipelining Kruskal's: A Neuromorphic Approach for Minimum Spanning Tree**|Yee Hin Chong et.al.|[2505.10771v1](http://arxiv.org/abs/2505.10771v1)|null|
+|**2025-05-19**|**Hardware-Adaptive and Superlinear-Capacity Memristor-based Associative Memory**|Chengping He et.al.|[2505.12960v1](http://arxiv.org/abs/2505.12960v1)|**[link](https://github.com/hecp2025/multilayerassociatememory)**|
+|**2025-05-19**|**Pipelining Kruskal's: A Neuromorphic Approach for Minimum Spanning Tree**|Yee Hin Chong et.al.|[2505.10771v2](http://arxiv.org/abs/2505.10771v2)|null|
 |**2025-05-07**|**Input-Specific and Universal Adversarial Attack Generation for Spiking Neural Networks in the Spiking Domain**|Spyridon Raptis et.al.|[2505.06299v1](http://arxiv.org/abs/2505.06299v1)|null|
 |**2025-05-09**|**CogniSNN: A First Exploration to Random Graph Architecture based Spiking Neural Networks with Enhanced Expandability and Neuroplasticity**|Yongsheng Huang et.al.|[2505.05992v1](http://arxiv.org/abs/2505.05992v1)|null|
 |**2025-05-09**|**What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips**|Renjie Li et.al.|[2505.05794v1](http://arxiv.org/abs/2505.05794v1)|null|
@@ -388,7 +391,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
 
 ## Spintronics - RF
 
@@ -432,15 +435,16 @@
 |**2012-08-09**|**Disorder-free sputtering method on graphene**|Xue Peng Qiu et.al.|[1208.1835v1](http://arxiv.org/abs/1208.1835v1)|null|
 |**2012-05-21**|**Manipulating dipolar and spin-exchange interactions in spin-1 Bose-Einstein condensates**|Bo-Yuan Ning et.al.|[1201.1779v3](http://arxiv.org/abs/1201.1779v3)|null|
 
-<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
 
 ## Neuromorphics - Quantum
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-17**|**Semiconductor quantum well magnetic memory using confinement from proximity exchange fields for high magnetoresistances in a field-effect transistor**|William S. Rogers et.al.|[2505.11767v1](http://arxiv.org/abs/2505.11767v1)|null|
 |**2025-05-15**|**Optical Kerr soliton microcombs for high bandwidth communications**|Bill Corcoran et.al.|[2505.09953v1](http://arxiv.org/abs/2505.09953v1)|null|
 |**2025-05-07**|**Scalable Asynchronous Single Flux Quantum Up-Down Counter using Josephson Trapping Lines and α-Cells**|Mustafa Altay Karamuftuoglu et.al.|[2505.04069v1](http://arxiv.org/abs/2505.04069v1)|null|
-|**2025-05-03**|**Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey**|Jing Liu et.al.|[2505.01821v1](http://arxiv.org/abs/2505.01821v1)|null|
+|**2025-05-17**|**Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey**|Jing Liu et.al.|[2505.01821v2](http://arxiv.org/abs/2505.01821v2)|null|
 |**2025-04-25**|**Experimental neuromorphic computing based on quantum memristor**|Mirela Selimović et.al.|[2504.18694v1](http://arxiv.org/abs/2504.18694v1)|null|
 |**2025-03-28**|**Enhanced Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.22604v1](http://arxiv.org/abs/2503.22604v1)|null|
 |**2025-04-28**|**The 2D Materials Roadmap**|Wencai Ren et.al.|[2503.22476v2](http://arxiv.org/abs/2503.22476v2)|null|
@@ -543,5 +547,5 @@
 |**2022-07-12**|**Multistable Topological Mechanical Metamaterials**|Haning Xiu et.al.|[2207.05826v1](http://arxiv.org/abs/2207.05826v1)|null|
 |**2022-10-19**|**Mechanism of the Resistivity Switching Induced by the Joule Heating in Crystalline NbO$_2$**|Samuel W. Olin et.al.|[2207.02682v2](http://arxiv.org/abs/2207.02682v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
 
