@@ -1,4 +1,4 @@
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -119,7 +119,7 @@
 |**2020-10-23**|**Recent Progress on Electrical Excitation and Manipulation of Spin-Waves in Spin Hall Nano-Oscillators**|Liyuan Li et.al.|[2006.09737v2](http://arxiv.org/abs/2006.09737v2)|null|
 |**2020-06-03**|**Giant voltage control of spin Hall nano-oscillator damping**|Himanshu Fulara et.al.|[2006.02151v1](http://arxiv.org/abs/2006.02151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
 
 ## Spintronics - Circuit
 
@@ -230,12 +230,13 @@
 |**2020-08-23**|**Picosecond Spin Orbit Torque Switching**|Kaushalya Jhuria et.al.|[1912.01377v4](http://arxiv.org/abs/1912.01377v4)|null|
 |**2019-12-03**|**Spin-Orbit-Torque-based Devices, Circuits and Architectures**|Farshad Moradi et.al.|[1912.01347v1](http://arxiv.org/abs/1912.01347v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
 
 ## Neuromorphics - Online Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks**|Gaspard Goupy et.al.|[2505.13741v1](http://arxiv.org/abs/2505.13741v1)|null|
 |**2025-05-19**|**Hardware-Adaptive and Superlinear-Capacity Memristor-based Associative Memory**|Chengping He et.al.|[2505.12960v1](http://arxiv.org/abs/2505.12960v1)|**[link](https://github.com/hecp2025/multilayerassociatememory)**|
 |**2025-05-19**|**Pipelining Kruskal's: A Neuromorphic Approach for Minimum Spanning Tree**|Yee Hin Chong et.al.|[2505.10771v2](http://arxiv.org/abs/2505.10771v2)|null|
 |**2025-05-07**|**Input-Specific and Universal Adversarial Attack Generation for Spiking Neural Networks in the Spiking Domain**|Spyridon Raptis et.al.|[2505.06299v1](http://arxiv.org/abs/2505.06299v1)|null|
@@ -304,7 +305,7 @@
 |**2024-11-28**|**Inverse-design topology optimization of magnonic devices using level-set method**|Andrey A. Voronov et.al.|[2411.19109v1](http://arxiv.org/abs/2411.19109v1)|null|
 |**2024-11-27**|**NeoHebbian Synapses to Accelerate Online Training of Neuromorphic Hardware**|Shubham Pande et.al.|[2411.18272v1](http://arxiv.org/abs/2411.18272v1)|null|
 |**2024-11-26**|**Invariant neuromorphic representations of tactile stimuli improve robustness of a real-time texture classification system**|Mark M. Iskarous et.al.|[2411.17060v1](http://arxiv.org/abs/2411.17060v1)|null|
-|**2025-04-13**|**Efficient Spatio-Temporal Signal Recognition on Edge Devices Using PointLCA-Net**|Sanaz Mahmoodi Takaghaj et.al.|[2411.14585v2](http://arxiv.org/abs/2411.14585v2)|null|
+|**2025-05-20**|**Efficient Spatio-Temporal Signal Recognition on Edge Devices Using PointLCA-Net**|Sanaz Mahmoodi Takaghaj et.al.|[2411.14585v3](http://arxiv.org/abs/2411.14585v3)|null|
 |**2024-11-21**|**Hybrid-Neuromorphic Approach for Underwater Robotics Applications: A Conceptual Framework**|Vidya Sudevan et.al.|[2411.13962v1](http://arxiv.org/abs/2411.13962v1)|null|
 |**2024-11-18**|**Analysis of Generalized Hebbian Learning Algorithm for Neuromorphic Hardware Using Spinnaker**|Shivani Sharma et.al.|[2411.11575v1](http://arxiv.org/abs/2411.11575v1)|null|
 |**2024-11-18**|**Noise Filtering Benchmark for Neuromorphic Satellites Observations**|Sami Arja et.al.|[2411.11233v1](http://arxiv.org/abs/2411.11233v1)|**[link](https://github.com/samiarja/dvs_sparse_filter)**|
@@ -391,7 +392,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
 
 ## Spintronics - RF
 
@@ -435,7 +436,7 @@
 |**2012-08-09**|**Disorder-free sputtering method on graphene**|Xue Peng Qiu et.al.|[1208.1835v1](http://arxiv.org/abs/1208.1835v1)|null|
 |**2012-05-21**|**Manipulating dipolar and spin-exchange interactions in spin-1 Bose-Einstein condensates**|Bo-Yuan Ning et.al.|[1201.1779v3](http://arxiv.org/abs/1201.1779v3)|null|
 
-<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
 
 ## Neuromorphics - Quantum
 
@@ -547,5 +548,5 @@
 |**2022-07-12**|**Multistable Topological Mechanical Metamaterials**|Haning Xiu et.al.|[2207.05826v1](http://arxiv.org/abs/2207.05826v1)|null|
 |**2022-10-19**|**Mechanism of the Resistivity Switching Induced by the Joule Heating in Crystalline NbO$_2$**|Samuel W. Olin et.al.|[2207.02682v2](http://arxiv.org/abs/2207.02682v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
 
