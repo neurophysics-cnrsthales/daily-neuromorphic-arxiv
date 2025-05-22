@@ -4,6 +4,9 @@ import json
 import arxiv
 import os
 from collections import OrderedDict
+from arxiv import Client
+#client = Client()
+client = arxiv.Client(user_agent="MyArxivBot/1.0 (myemail@example.com)")
 
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
@@ -45,7 +48,8 @@ def get_daily_papers(topic,query="SNN", max_results=2):
 
     cnt = 0
 
-    for result in search_engine.results():
+    #for result in search_engine.results():
+    for result in client.results(search_engine):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
