@@ -5,8 +5,8 @@ import arxiv
 import os
 from collections import OrderedDict
 from arxiv import Client
-#client = Client()
-client = arxiv.Client(user_agent="MyArxivBot/1.0 (myemail@example.com)")
+client = Client()
+#client = arxiv.Client(user_agent="MyArxivBot/1.0 (myemail@example.com)")
 
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
