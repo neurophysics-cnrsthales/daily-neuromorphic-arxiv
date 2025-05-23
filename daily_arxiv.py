@@ -48,8 +48,8 @@ def get_daily_papers(topic,query="SNN", max_results=2):
 
     cnt = 0
 
-    #for result in search_engine.results():
-    for result in client.results(search_engine):
+    for result in search_engine.results():
+    #for result in client.results(search_engine):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
