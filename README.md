@@ -1,4 +1,4 @@
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -119,7 +119,7 @@
 |**2020-10-23**|**Recent Progress on Electrical Excitation and Manipulation of Spin-Waves in Spin Hall Nano-Oscillators**|Liyuan Li et.al.|[2006.09737v2](http://arxiv.org/abs/2006.09737v2)|null|
 |**2020-06-03**|**Giant voltage control of spin Hall nano-oscillator damping**|Himanshu Fulara et.al.|[2006.02151v1](http://arxiv.org/abs/2006.02151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250522>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250523>back to top</a>)</p>
 
 ## Spintronics - Circuit
 
@@ -230,12 +230,14 @@
 |**2020-08-23**|**Picosecond Spin Orbit Torque Switching**|Kaushalya Jhuria et.al.|[1912.01377v4](http://arxiv.org/abs/1912.01377v4)|null|
 |**2019-12-03**|**Spin-Orbit-Torque-based Devices, Circuits and Architectures**|Farshad Moradi et.al.|[1912.01347v1](http://arxiv.org/abs/1912.01347v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250522>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250523>back to top</a>)</p>
 
 ## Neuromorphics - Online Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Stochastic Forward-Forward Learning through Representational Dimensionality Compression**|Zhichao Zhu et.al.|[2505.16649v1](http://arxiv.org/abs/2505.16649v1)|null|
+|**2025-05-22**|**Neuromorphic-based metaheuristics: A new generation of low power, low latency and small footprint optimization algorithms**|El-ghazali Talbi et.al.|[2505.16362v1](http://arxiv.org/abs/2505.16362v1)|null|
 |**2025-05-19**|**Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks**|Gaspard Goupy et.al.|[2505.13741v1](http://arxiv.org/abs/2505.13741v1)|null|
 |**2025-05-19**|**Hardware-Adaptive and Superlinear-Capacity Memristor-based Associative Memory**|Chengping He et.al.|[2505.12960v1](http://arxiv.org/abs/2505.12960v1)|**[link](https://github.com/hecp2025/multilayerassociatememory)**|
 |**2025-05-19**|**Pipelining Kruskal's: A Neuromorphic Approach for Minimum Spanning Tree**|Yee Hin Chong et.al.|[2505.10771v2](http://arxiv.org/abs/2505.10771v2)|null|
@@ -392,7 +394,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250522>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250523>back to top</a>)</p>
 
 ## Spintronics - RF
 
@@ -436,7 +438,7 @@
 |**2012-08-09**|**Disorder-free sputtering method on graphene**|Xue Peng Qiu et.al.|[1208.1835v1](http://arxiv.org/abs/1208.1835v1)|null|
 |**2012-05-21**|**Manipulating dipolar and spin-exchange interactions in spin-1 Bose-Einstein condensates**|Bo-Yuan Ning et.al.|[1201.1779v3](http://arxiv.org/abs/1201.1779v3)|null|
 
-<p align=right>(<a href=#Updated-on-20250522>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250523>back to top</a>)</p>
 
 ## Neuromorphics - Quantum
 
@@ -517,6 +519,7 @@
 |**2023-10-05**|**Unsupervised SFQ-Based Spiking Neural Network**|Mustafa Altay Karamuftuoglu et.al.|[2310.03918v1](http://arxiv.org/abs/2310.03918v1)|null|
 |**2024-02-06**|**Tunable chiral anomalies and coherent transport on a honeycomb lattice**|Vasil A. Saroka et.al.|[2310.02148v2](http://arxiv.org/abs/2310.02148v2)|null|
 |**2023-09-27**|**Towards Efficient and Trustworthy AI Through Hardware-Algorithm-Communication Co-Design**|Bipin Rajendran et.al.|[2309.15942v1](http://arxiv.org/abs/2309.15942v1)|null|
+|**2025-05-22**|**A Fourier Neural Operator Approach for Modelling Exciton-Polariton Condensate Systems**|Yuan Wang et.al.|[2309.15593v3](http://arxiv.org/abs/2309.15593v3)|null|
 |**2023-09-10**|**Machine Learning for maximizing the memristivity of single and coupled quantum memristors**|Carlos Hernani-Morales et.al.|[2309.05062v1](http://arxiv.org/abs/2309.05062v1)|**[link](https://github.com/carlos-hernani/quantummemristor)**|
 |**2023-09-01**|**Multilayer Ferromagnetic Spintronic Devices for Neuromorphic Computing Applications**|Aijaz H. Lone et.al.|[2309.00476v1](http://arxiv.org/abs/2309.00476v1)|null|
 |**2023-08-28**|**Abnormal behavior of preferred formation of cationic vacancy from the interior in γ-GeSe monolayer with the stereo-chemical antibonding lone-pair state**|Changmeng Huan et.al.|[2308.14413v1](http://arxiv.org/abs/2308.14413v1)|null|
@@ -534,7 +537,7 @@
 |**2024-02-27**|**Roadmap for Unconventional Computing with Nanotechnology**|Giovanni Finocchio et.al.|[2301.06727v2](http://arxiv.org/abs/2301.06727v2)|null|
 |**2023-02-03**|**Effects of quantum recoil forces in resistive switching in memristors**|Oleg G. Kharlanov et.al.|[2301.06066v2](http://arxiv.org/abs/2301.06066v2)|null|
 |**2023-01-18**|**Timescales: the choreography of classical and unconventional computing**|Herbert Jaeger et.al.|[2301.00893v2](http://arxiv.org/abs/2301.00893v2)|null|
-|**2023-01-02**|**What is Cognitive Computing? An Architecture and State of The Art**|Samaa Elnagar et.al.|[2301.00882v1](http://arxiv.org/abs/2301.00882v1)|null|
+|**2025-05-21**|**What is Cognitive Computing? An Architecture and State of The Art**|Samaa Elnagar et.al.|[2301.00882v2](http://arxiv.org/abs/2301.00882v2)|null|
 |**2022-12-28**|**An Atomistic Model of Field-Induced Resistive Switching in Valence Change Memory**|Manasa Kaniselvan et.al.|[2212.14090v1](http://arxiv.org/abs/2212.14090v1)|null|
 |**2023-02-26**|**BioSFQ circuit family for neuromorphic computing: Bridging digital and analog domains of superconductor technologies**|Vasili K. Semenov et.al.|[2212.13657v2](http://arxiv.org/abs/2212.13657v2)|null|
 |**2024-02-21**|**Expressive Quantum Perceptrons for Quantum Neuromorphic Computing**|Rodrigo Araiza Bravo et.al.|[2211.07075v3](http://arxiv.org/abs/2211.07075v3)|**[link](https://github.com/orodrigoaraizabravo/quantumperceptrons)**|
@@ -548,5 +551,5 @@
 |**2022-07-12**|**Multistable Topological Mechanical Metamaterials**|Haning Xiu et.al.|[2207.05826v1](http://arxiv.org/abs/2207.05826v1)|null|
 |**2022-10-19**|**Mechanism of the Resistivity Switching Induced by the Joule Heating in Crystalline NbO$_2$**|Samuel W. Olin et.al.|[2207.02682v2](http://arxiv.org/abs/2207.02682v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250522>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250523>back to top</a>)</p>
 

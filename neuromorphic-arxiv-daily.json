@@ -365,7 +365,9 @@
     "2505.06299": "|**2025-05-07**|**Input-Specific and Universal Adversarial Attack Generation for Spiking Neural Networks in the Spiking Domain**|Spyridon Raptis et.al.|[2505.06299v1](http://arxiv.org/abs/2505.06299v1)|null|\n",
     "2505.10771": "|**2025-05-19**|**Pipelining Kruskal's: A Neuromorphic Approach for Minimum Spanning Tree**|Yee Hin Chong et.al.|[2505.10771v2](http://arxiv.org/abs/2505.10771v2)|null|\n",
     "2505.12960": "|**2025-05-19**|**Hardware-Adaptive and Superlinear-Capacity Memristor-based Associative Memory**|Chengping He et.al.|[2505.12960v1](http://arxiv.org/abs/2505.12960v1)|**[link](https://github.com/hecp2025/multilayerassociatememory)**|\n",
-    "2505.13741": "|**2025-05-19**|**Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks**|Gaspard Goupy et.al.|[2505.13741v1](http://arxiv.org/abs/2505.13741v1)|null|\n"
+    "2505.13741": "|**2025-05-19**|**Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks**|Gaspard Goupy et.al.|[2505.13741v1](http://arxiv.org/abs/2505.13741v1)|null|\n",
+    "2505.16649": "|**2025-05-22**|**Stochastic Forward-Forward Learning through Representational Dimensionality Compression**|Zhichao Zhu et.al.|[2505.16649v1](http://arxiv.org/abs/2505.16649v1)|null|\n",
+    "2505.16362": "|**2025-05-22**|**Neuromorphic-based metaheuristics: A new generation of low power, low latency and small footprint optimization algorithms**|El-ghazali Talbi et.al.|[2505.16362v1](http://arxiv.org/abs/2505.16362v1)|null|\n"
   },
   "Spintronics - RF": {
     "2504.04273": "|**2025-04-05**|**Spin-Torque-Driven Non-uniform Dynamics of an Antivortex Core in Truncated Astroid Shaped Nanomagnets**|Ahmet Koral Aykin et.al.|[2504.04273v1](http://arxiv.org/abs/2504.04273v1)|null|\n",
@@ -494,7 +496,7 @@
     "2301.06727": "|**2024-02-27**|**Roadmap for Unconventional Computing with Nanotechnology**|Giovanni Finocchio et.al.|[2301.06727v2](http://arxiv.org/abs/2301.06727v2)|null|\n",
     "2301.06066": "|**2023-02-03**|**Effects of quantum recoil forces in resistive switching in memristors**|Oleg G. Kharlanov et.al.|[2301.06066v2](http://arxiv.org/abs/2301.06066v2)|null|\n",
     "2301.00893": "|**2023-01-18**|**Timescales: the choreography of classical and unconventional computing**|Herbert Jaeger et.al.|[2301.00893v2](http://arxiv.org/abs/2301.00893v2)|null|\n",
-    "2301.00882": "|**2023-01-02**|**What is Cognitive Computing? An Architecture and State of The Art**|Samaa Elnagar et.al.|[2301.00882v1](http://arxiv.org/abs/2301.00882v1)|null|\n",
+    "2301.00882": "|**2025-05-21**|**What is Cognitive Computing? An Architecture and State of The Art**|Samaa Elnagar et.al.|[2301.00882v2](http://arxiv.org/abs/2301.00882v2)|null|\n",
     "2212.14090": "|**2022-12-28**|**An Atomistic Model of Field-Induced Resistive Switching in Valence Change Memory**|Manasa Kaniselvan et.al.|[2212.14090v1](http://arxiv.org/abs/2212.14090v1)|null|\n",
     "2212.13657": "|**2023-02-26**|**BioSFQ circuit family for neuromorphic computing: Bridging digital and analog domains of superconductor technologies**|Vasili K. Semenov et.al.|[2212.13657v2](http://arxiv.org/abs/2212.13657v2)|null|\n",
     "2211.07075": "|**2024-02-21**|**Expressive Quantum Perceptrons for Quantum Neuromorphic Computing**|Rodrigo Araiza Bravo et.al.|[2211.07075v3](http://arxiv.org/abs/2211.07075v3)|**[link](https://github.com/orodrigoaraizabravo/quantumperceptrons)**|\n",
@@ -511,6 +513,7 @@
     "2505.01821": "|**2025-05-17**|**Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey**|Jing Liu et.al.|[2505.01821v2](http://arxiv.org/abs/2505.01821v2)|null|\n",
     "2505.04069": "|**2025-05-07**|**Scalable Asynchronous Single Flux Quantum Up-Down Counter using Josephson Trapping Lines and \u03b1-Cells**|Mustafa Altay Karamuftuoglu et.al.|[2505.04069v1](http://arxiv.org/abs/2505.04069v1)|null|\n",
     "2505.09953": "|**2025-05-15**|**Optical Kerr soliton microcombs for high bandwidth communications**|Bill Corcoran et.al.|[2505.09953v1](http://arxiv.org/abs/2505.09953v1)|null|\n",
-    "2505.11767": "|**2025-05-17**|**Semiconductor quantum well magnetic memory using confinement from proximity exchange fields for high magnetoresistances in a field-effect transistor**|William S. Rogers et.al.|[2505.11767v1](http://arxiv.org/abs/2505.11767v1)|null|\n"
+    "2505.11767": "|**2025-05-17**|**Semiconductor quantum well magnetic memory using confinement from proximity exchange fields for high magnetoresistances in a field-effect transistor**|William S. Rogers et.al.|[2505.11767v1](http://arxiv.org/abs/2505.11767v1)|null|\n",
+    "2309.15593": "|**2025-05-22**|**A Fourier Neural Operator Approach for Modelling Exciton-Polariton Condensate Systems**|Yuan Wang et.al.|[2309.15593v3](http://arxiv.org/abs/2309.15593v3)|null|\n"
   }
 }
