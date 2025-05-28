@@ -286,7 +286,7 @@
     "2502.20729": "|**2025-02-28**|**NeuroMorse: A Temporally Structured Dataset For Neuromorphic Computing**|Ben Walters et.al.|[2502.20729v1](http://arxiv.org/abs/2502.20729v1)|**[link](https://github.com/ben-e-walters/neuromorse)**|\n",
     "2502.17168": "|**2025-02-24**|**SpikACom: A Neuromorphic Computing Framework for Green Communications**|Yanzhen Liu et.al.|[2502.17168v1](http://arxiv.org/abs/2502.17168v1)|**[link](https://github.com/yl5922/spikacom)**|\n",
     "2502.15056": "|**2025-02-20**|**Fundamental Survey on Neuromorphic Based Audio Classification**|Amlan Basu et.al.|[2502.15056v1](http://arxiv.org/abs/2502.15056v1)|null|\n",
-    "2502.20411": "|**2025-02-19**|**Backpropagation-free Spiking Neural Networks with the Forward-Forward Algorithm**|Mohammadnavid Ghader et.al.|[2502.20411v1](http://arxiv.org/abs/2502.20411v1)|null|\n",
+    "2502.20411": "|**2025-05-27**|**Backpropagation-free Spiking Neural Networks with the Forward-Forward Algorithm**|Mohammadnavid Ghader et.al.|[2502.20411v2](http://arxiv.org/abs/2502.20411v2)|null|\n",
     "2502.09393": "|**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393v1](http://arxiv.org/abs/2502.09393v1)|null|\n",
     "2502.06989": "|**2025-02-10**|**Adaptive Central Frequencies Locally Competitive Algorithm for Speech**|Soufiyan Bahadi et.al.|[2502.06989v1](http://arxiv.org/abs/2502.06989v1)|null|\n",
     "2502.06747": "|**2025-02-10**|**Wandering around: A bioinspired approach to visual attention through object motion sensitivity**|Giulia D Angelo et.al.|[2502.06747v1](http://arxiv.org/abs/2502.06747v1)|**[link](https://github.com/GiuliaDAngelo/Speckegomotion)**|\n",
@@ -516,6 +516,8 @@
     "2505.04069": "|**2025-05-07**|**Scalable Asynchronous Single Flux Quantum Up-Down Counter using Josephson Trapping Lines and \u03b1-Cells**|Mustafa Altay Karamuftuoglu et.al.|[2505.04069v1](http://arxiv.org/abs/2505.04069v1)|null|\n",
     "2505.09953": "|**2025-05-15**|**Optical Kerr soliton microcombs for high bandwidth communications**|Bill Corcoran et.al.|[2505.09953v1](http://arxiv.org/abs/2505.09953v1)|null|\n",
     "2505.11767": "|**2025-05-17**|**Semiconductor quantum well magnetic memory using confinement from proximity exchange fields for high magnetoresistances in a field-effect transistor**|William S. Rogers et.al.|[2505.11767v1](http://arxiv.org/abs/2505.11767v1)|null|\n",
-    "2309.15593": "|**2025-05-22**|**A Fourier Neural Operator Approach for Modelling Exciton-Polariton Condensate Systems**|Yuan Wang et.al.|[2309.15593v3](http://arxiv.org/abs/2309.15593v3)|null|\n"
+    "2309.15593": "|**2025-05-22**|**A Fourier Neural Operator Approach for Modelling Exciton-Polariton Condensate Systems**|Yuan Wang et.al.|[2309.15593v3](http://arxiv.org/abs/2309.15593v3)|null|\n",
+    "2505.21168": "|**2025-05-27**|**Ultra-Broadband plug-and-play photonic circuit packaging with sub-dB loss**|Erik Jung et.al.|[2505.21168v1](http://arxiv.org/abs/2505.21168v1)|null|\n",
+    "2505.20442": "|**2025-05-26**|**Quantum simulations of complex systems**|Oliver Morsch et.al.|[2505.20442v1](http://arxiv.org/abs/2505.20442v1)|null|\n"
   }
 }

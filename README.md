@@ -1,4 +1,4 @@
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -119,7 +119,7 @@
 |**2020-10-23**|**Recent Progress on Electrical Excitation and Manipulation of Spin-Waves in Spin Hall Nano-Oscillators**|Liyuan Li et.al.|[2006.09737v2](http://arxiv.org/abs/2006.09737v2)|null|
 |**2020-06-03**|**Giant voltage control of spin Hall nano-oscillator damping**|Himanshu Fulara et.al.|[2006.02151v1](http://arxiv.org/abs/2006.02151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
 
 ## Spintronics - Circuit
 
@@ -230,7 +230,7 @@
 |**2020-08-23**|**Picosecond Spin Orbit Torque Switching**|Kaushalya Jhuria et.al.|[1912.01377v4](http://arxiv.org/abs/1912.01377v4)|null|
 |**2019-12-03**|**Spin-Orbit-Torque-based Devices, Circuits and Architectures**|Farshad Moradi et.al.|[1912.01347v1](http://arxiv.org/abs/1912.01347v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
 
 ## Neuromorphics - Online Learning
 
@@ -276,7 +276,7 @@
 |**2025-03-04**|**Weight transport through spike timing for robust local gradients**|Timo Gierlich et.al.|[2503.02642v1](http://arxiv.org/abs/2503.02642v1)|**[link](https://github.com/unibe-cns/sal-code)**|
 |**2025-03-02**|**Range and Angle Estimation with Spiking Neural Resonators for FMCW Radar**|Nico Reeb et.al.|[2503.00898v1](http://arxiv.org/abs/2503.00898v1)|null|
 |**2025-02-28**|**NeuroMorse: A Temporally Structured Dataset For Neuromorphic Computing**|Ben Walters et.al.|[2502.20729v1](http://arxiv.org/abs/2502.20729v1)|**[link](https://github.com/ben-e-walters/neuromorse)**|
-|**2025-02-19**|**Backpropagation-free Spiking Neural Networks with the Forward-Forward Algorithm**|Mohammadnavid Ghader et.al.|[2502.20411v1](http://arxiv.org/abs/2502.20411v1)|null|
+|**2025-05-27**|**Backpropagation-free Spiking Neural Networks with the Forward-Forward Algorithm**|Mohammadnavid Ghader et.al.|[2502.20411v2](http://arxiv.org/abs/2502.20411v2)|null|
 |**2025-02-24**|**SpikACom: A Neuromorphic Computing Framework for Green Communications**|Yanzhen Liu et.al.|[2502.17168v1](http://arxiv.org/abs/2502.17168v1)|**[link](https://github.com/yl5922/spikacom)**|
 |**2025-02-20**|**Fundamental Survey on Neuromorphic Based Audio Classification**|Amlan Basu et.al.|[2502.15056v1](http://arxiv.org/abs/2502.15056v1)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393v1](http://arxiv.org/abs/2502.09393v1)|null|
@@ -396,7 +396,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
 
 ## Spintronics - RF
 
@@ -440,12 +440,14 @@
 |**2012-08-09**|**Disorder-free sputtering method on graphene**|Xue Peng Qiu et.al.|[1208.1835v1](http://arxiv.org/abs/1208.1835v1)|null|
 |**2012-05-21**|**Manipulating dipolar and spin-exchange interactions in spin-1 Bose-Einstein condensates**|Bo-Yuan Ning et.al.|[1201.1779v3](http://arxiv.org/abs/1201.1779v3)|null|
 
-<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
 
 ## Neuromorphics - Quantum
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Ultra-Broadband plug-and-play photonic circuit packaging with sub-dB loss**|Erik Jung et.al.|[2505.21168v1](http://arxiv.org/abs/2505.21168v1)|null|
+|**2025-05-26**|**Quantum simulations of complex systems**|Oliver Morsch et.al.|[2505.20442v1](http://arxiv.org/abs/2505.20442v1)|null|
 |**2025-05-17**|**Semiconductor quantum well magnetic memory using confinement from proximity exchange fields for high magnetoresistances in a field-effect transistor**|William S. Rogers et.al.|[2505.11767v1](http://arxiv.org/abs/2505.11767v1)|null|
 |**2025-05-15**|**Optical Kerr soliton microcombs for high bandwidth communications**|Bill Corcoran et.al.|[2505.09953v1](http://arxiv.org/abs/2505.09953v1)|null|
 |**2025-05-07**|**Scalable Asynchronous Single Flux Quantum Up-Down Counter using Josephson Trapping Lines and α-Cells**|Mustafa Altay Karamuftuoglu et.al.|[2505.04069v1](http://arxiv.org/abs/2505.04069v1)|null|
@@ -553,5 +555,5 @@
 |**2022-07-12**|**Multistable Topological Mechanical Metamaterials**|Haning Xiu et.al.|[2207.05826v1](http://arxiv.org/abs/2207.05826v1)|null|
 |**2022-10-19**|**Mechanism of the Resistivity Switching Induced by the Joule Heating in Crystalline NbO$_2$**|Samuel W. Olin et.al.|[2207.02682v2](http://arxiv.org/abs/2207.02682v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
 
