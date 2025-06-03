@@ -1,4 +1,4 @@
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -119,7 +119,7 @@
 |**2020-10-23**|**Recent Progress on Electrical Excitation and Manipulation of Spin-Waves in Spin Hall Nano-Oscillators**|Liyuan Li et.al.|[2006.09737v2](http://arxiv.org/abs/2006.09737v2)|null|
 |**2020-06-03**|**Giant voltage control of spin Hall nano-oscillator damping**|Himanshu Fulara et.al.|[2006.02151v1](http://arxiv.org/abs/2006.02151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250603>back to top</a>)</p>
 
 ## Spintronics - Circuit
 
@@ -230,7 +230,7 @@
 |**2020-08-23**|**Picosecond Spin Orbit Torque Switching**|Kaushalya Jhuria et.al.|[1912.01377v4](http://arxiv.org/abs/1912.01377v4)|null|
 |**2019-12-03**|**Spin-Orbit-Torque-based Devices, Circuits and Architectures**|Farshad Moradi et.al.|[1912.01347v1](http://arxiv.org/abs/1912.01347v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250603>back to top</a>)</p>
 
 ## Neuromorphics - Online Learning
 
@@ -288,7 +288,7 @@
 |**2025-02-10**|**Wandering around: A bioinspired approach to visual attention through object motion sensitivity**|Giulia D Angelo et.al.|[2502.06747v1](http://arxiv.org/abs/2502.06747v1)|**[link](https://github.com/GiuliaDAngelo/Speckegomotion)**|
 |**2025-02-04**|**Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**|Amit Ranjan Trivedi et.al.|[2502.02692v1](http://arxiv.org/abs/2502.02692v1)|null|
 |**2025-04-26**|**Neuro-LIFT: A Neuromorphic, LLM-based Interactive Framework for Autonomous Drone FlighT at the Edge**|Amogh Joshi et.al.|[2501.19259v2](http://arxiv.org/abs/2501.19259v2)|null|
-|**2025-01-30**|**A General-Purpose Neuromorphic Sensor based on Spiketrum Algorithm: Hardware Details and Real-life Applications**|MHD Anas Alsakkal et.al.|[2501.18799v1](http://arxiv.org/abs/2501.18799v1)|null|
+|**2025-05-31**|**A General-Purpose Neuromorphic Sensor based on Spiketrum Algorithm: Hardware Details and Real-life Applications**|MHD Anas Alsakkal et.al.|[2501.18799v2](http://arxiv.org/abs/2501.18799v2)|null|
 |**2025-01-28**|**Ultrafast neuromorphic computing with nanophotonic optical parametric oscillators**|Midya Parto et.al.|[2501.16604v1](http://arxiv.org/abs/2501.16604v1)|null|
 |**2025-01-09**|**Explore Activation Sparsity in Recurrent LLMs for Energy-Efficient Neuromorphic Computing**|Ivan Knunyants et.al.|[2501.16337v1](http://arxiv.org/abs/2501.16337v1)|**[link](https://github.com/ernis-lab/llm-activation-sparsity)**|
 |**2025-01-27**|**Brain-Inspired Decentralized Satellite Learning in Space Computing Power Networks**|Peng Yang et.al.|[2501.15995v1](http://arxiv.org/abs/2501.15995v1)|null|
@@ -400,7 +400,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250603>back to top</a>)</p>
 
 ## Spintronics - RF
 
@@ -444,7 +444,7 @@
 |**2012-08-09**|**Disorder-free sputtering method on graphene**|Xue Peng Qiu et.al.|[1208.1835v1](http://arxiv.org/abs/1208.1835v1)|null|
 |**2012-05-21**|**Manipulating dipolar and spin-exchange interactions in spin-1 Bose-Einstein condensates**|Bo-Yuan Ning et.al.|[1201.1779v3](http://arxiv.org/abs/1201.1779v3)|null|
 
-<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250603>back to top</a>)</p>
 
 ## Neuromorphics - Quantum
 
@@ -559,5 +559,5 @@
 |**2022-07-12**|**Multistable Topological Mechanical Metamaterials**|Haning Xiu et.al.|[2207.05826v1](http://arxiv.org/abs/2207.05826v1)|null|
 |**2022-10-19**|**Mechanism of the Resistivity Switching Induced by the Joule Heating in Crystalline NbO$_2$**|Samuel W. Olin et.al.|[2207.02682v2](http://arxiv.org/abs/2207.02682v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250603>back to top</a>)</p>
 
