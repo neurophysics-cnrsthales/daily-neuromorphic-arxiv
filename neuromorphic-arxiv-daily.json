@@ -270,9 +270,9 @@
     "2504.00679": "|**2025-04-01**|**QUEST: A Quantized Energy-Aware SNN Training Framework for Multi-State Neuromorphic Devices**|Sai Li et.al.|[2504.00679v1](http://arxiv.org/abs/2504.00679v1)|null|\n",
     "2503.22943": "|**2025-04-03**|**Towards Mobile Sensing with Event Cameras on High-agility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943v2](http://arxiv.org/abs/2503.22943v2)|null|\n",
     "2503.22810": "|**2025-03-28**|**Harnessing uncertainty when learning through Equilibrium Propagation in neural networks**|Jonathan Peters et.al.|[2503.22810v1](http://arxiv.org/abs/2503.22810v1)|null|\n",
-    "2503.22604": "|**2025-03-28**|**Enhanced Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.22604v1](http://arxiv.org/abs/2503.22604v1)|null|\n",
+    "2503.22604": "|**2025-06-04**|**Enhanced Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.22604v2](http://arxiv.org/abs/2503.22604v2)|null|\n",
     "2503.22603": "|**2025-03-28**|**Analog Computing with Heat: Matrix-vector Multiplication with Inverse-designed Metastructures**|Caio Silva et.al.|[2503.22603v1](http://arxiv.org/abs/2503.22603v1)|null|\n",
-    "2503.21336": "|**2025-04-16**|**Adaptive Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.21336v2](http://arxiv.org/abs/2503.21336v2)|null|\n",
+    "2503.21336": "|**2025-06-04**|**Adaptive Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.21336v3](http://arxiv.org/abs/2503.21336v3)|null|\n",
     "2503.21795": "|**2025-03-22**|**Threshold Adaptation in Spiking Networks Enables Shortest Path Finding and Place Disambiguation**|Robin Dietrich et.al.|[2503.21795v1](http://arxiv.org/abs/2503.21795v1)|**[link](https://github.com/dietriro/neuroseq)**|\n",
     "2503.12743": "|**2025-03-17**|**Cancermorphic Computing Toward Multilevel Machine Intelligence**|Rosalia Moreddu et.al.|[2503.12743v1](http://arxiv.org/abs/2503.12743v1)|null|\n",
     "2503.10387": "|**2025-03-13**|**Adding numbers with spiking neural circuits on neuromorphic hardware**|Oskar von Seeler et.al.|[2503.10387v1](http://arxiv.org/abs/2503.10387v1)|null|\n",
@@ -415,9 +415,9 @@
     "cond-mat/0511548": "|**2005-11-22**|**Magnetomechanical Torques in Small Magnetic Cantilevers**|Alexey A. Kovalev et.al.|[cond-mat/0511548v1](http://arxiv.org/abs/cond-mat/0511548v1)|null|\n"
   },
   "Neuromorphics - Quantum": {
-    "2503.22604": "|**2025-03-28**|**Enhanced Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.22604v1](http://arxiv.org/abs/2503.22604v1)|null|\n",
+    "2503.22604": "|**2025-06-04**|**Enhanced Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.22604v2](http://arxiv.org/abs/2503.22604v2)|null|\n",
     "2503.22476": "|**2025-04-28**|**The 2D Materials Roadmap**|Wencai Ren et.al.|[2503.22476v2](http://arxiv.org/abs/2503.22476v2)|null|\n",
-    "2503.21336": "|**2025-04-16**|**Adaptive Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.21336v2](http://arxiv.org/abs/2503.21336v2)|null|\n",
+    "2503.21336": "|**2025-06-04**|**Adaptive Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.21336v3](http://arxiv.org/abs/2503.21336v3)|null|\n",
     "2503.13364": "|**2025-04-04**|**Demonstration of a Tunable Non-Hermitian Nonlinear Microwave Dimer**|Juan S. Salcedo-Gallo et.al.|[2503.13364v2](http://arxiv.org/abs/2503.13364v2)|**[link](https://github.com/jussalcedoga-dartmouth/nh_nl_dynamics_dimer)**|\n",
     "2503.07796": "|**2025-03-10**|**Topological mechanical neural networks as classifiers through in situ backpropagation learning**|Shuaifeng Li et.al.|[2503.07796v1](http://arxiv.org/abs/2503.07796v1)|null|\n",
     "2503.07681": "|**2025-03-10**|**Transforming Traditional Neural Networks into Neuromorphic Quantum-Cognitive Models: A Tutorial with Applications**|Milan Maksimovic et.al.|[2503.07681v1](http://arxiv.org/abs/2503.07681v1)|**[link](https://github.com/IvanMaksymov/Quantum-Tunnelling-Neural-Networks-Tutorial)**|\n",

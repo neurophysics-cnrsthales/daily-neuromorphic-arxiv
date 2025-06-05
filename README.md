@@ -1,4 +1,4 @@
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -119,7 +119,7 @@
 |**2020-10-23**|**Recent Progress on Electrical Excitation and Manipulation of Spin-Waves in Spin Hall Nano-Oscillators**|Liyuan Li et.al.|[2006.09737v2](http://arxiv.org/abs/2006.09737v2)|null|
 |**2020-06-03**|**Giant voltage control of spin Hall nano-oscillator damping**|Himanshu Fulara et.al.|[2006.02151v1](http://arxiv.org/abs/2006.02151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250605>back to top</a>)</p>
 
 ## Spintronics - Circuit
 
@@ -230,7 +230,7 @@
 |**2020-08-23**|**Picosecond Spin Orbit Torque Switching**|Kaushalya Jhuria et.al.|[1912.01377v4](http://arxiv.org/abs/1912.01377v4)|null|
 |**2019-12-03**|**Spin-Orbit-Torque-based Devices, Circuits and Architectures**|Farshad Moradi et.al.|[1912.01347v1](http://arxiv.org/abs/1912.01347v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250605>back to top</a>)</p>
 
 ## Neuromorphics - Online Learning
 
@@ -266,10 +266,10 @@
 |**2025-04-01**|**QUEST: A Quantized Energy-Aware SNN Training Framework for Multi-State Neuromorphic Devices**|Sai Li et.al.|[2504.00679v1](http://arxiv.org/abs/2504.00679v1)|null|
 |**2025-04-03**|**Towards Mobile Sensing with Event Cameras on High-agility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943v2](http://arxiv.org/abs/2503.22943v2)|null|
 |**2025-03-28**|**Harnessing uncertainty when learning through Equilibrium Propagation in neural networks**|Jonathan Peters et.al.|[2503.22810v1](http://arxiv.org/abs/2503.22810v1)|null|
-|**2025-03-28**|**Enhanced Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.22604v1](http://arxiv.org/abs/2503.22604v1)|null|
+|**2025-06-04**|**Enhanced Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.22604v2](http://arxiv.org/abs/2503.22604v2)|null|
 |**2025-03-28**|**Analog Computing with Heat: Matrix-vector Multiplication with Inverse-designed Metastructures**|Caio Silva et.al.|[2503.22603v1](http://arxiv.org/abs/2503.22603v1)|null|
 |**2025-03-22**|**Threshold Adaptation in Spiking Networks Enables Shortest Path Finding and Place Disambiguation**|Robin Dietrich et.al.|[2503.21795v1](http://arxiv.org/abs/2503.21795v1)|**[link](https://github.com/dietriro/neuroseq)**|
-|**2025-04-16**|**Adaptive Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.21336v2](http://arxiv.org/abs/2503.21336v2)|null|
+|**2025-06-04**|**Adaptive Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.21336v3](http://arxiv.org/abs/2503.21336v3)|null|
 |**2025-03-10**|**Event-Driven Implementation of a Physical Reservoir Computing Framework for superficial EMG-based Gesture Recognition**|Yuqi Ding et.al.|[2503.13492v1](http://arxiv.org/abs/2503.13492v1)|null|
 |**2025-03-17**|**Cancermorphic Computing Toward Multilevel Machine Intelligence**|Rosalia Moreddu et.al.|[2503.12743v1](http://arxiv.org/abs/2503.12743v1)|null|
 |**2025-03-13**|**Adding numbers with spiking neural circuits on neuromorphic hardware**|Oskar von Seeler et.al.|[2503.10387v1](http://arxiv.org/abs/2503.10387v1)|null|
@@ -400,7 +400,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250605>back to top</a>)</p>
 
 ## Spintronics - RF
 
@@ -444,7 +444,7 @@
 |**2012-08-09**|**Disorder-free sputtering method on graphene**|Xue Peng Qiu et.al.|[1208.1835v1](http://arxiv.org/abs/1208.1835v1)|null|
 |**2012-05-21**|**Manipulating dipolar and spin-exchange interactions in spin-1 Bose-Einstein condensates**|Bo-Yuan Ning et.al.|[1201.1779v3](http://arxiv.org/abs/1201.1779v3)|null|
 
-<p align=right>(<a href=#Updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250605>back to top</a>)</p>
 
 ## Neuromorphics - Quantum
 
@@ -457,9 +457,9 @@
 |**2025-05-07**|**Scalable Asynchronous Single Flux Quantum Up-Down Counter using Josephson Trapping Lines and α-Cells**|Mustafa Altay Karamuftuoglu et.al.|[2505.04069v1](http://arxiv.org/abs/2505.04069v1)|null|
 |**2025-05-17**|**Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey**|Jing Liu et.al.|[2505.01821v2](http://arxiv.org/abs/2505.01821v2)|null|
 |**2025-04-25**|**Experimental neuromorphic computing based on quantum memristor**|Mirela Selimović et.al.|[2504.18694v1](http://arxiv.org/abs/2504.18694v1)|null|
-|**2025-03-28**|**Enhanced Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.22604v1](http://arxiv.org/abs/2503.22604v1)|null|
+|**2025-06-04**|**Enhanced Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.22604v2](http://arxiv.org/abs/2503.22604v2)|null|
 |**2025-04-28**|**The 2D Materials Roadmap**|Wencai Ren et.al.|[2503.22476v2](http://arxiv.org/abs/2503.22476v2)|null|
-|**2025-04-16**|**Adaptive Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.21336v2](http://arxiv.org/abs/2503.21336v2)|null|
+|**2025-06-04**|**Adaptive Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.21336v3](http://arxiv.org/abs/2503.21336v3)|null|
 |**2025-04-04**|**Demonstration of a Tunable Non-Hermitian Nonlinear Microwave Dimer**|Juan S. Salcedo-Gallo et.al.|[2503.13364v2](http://arxiv.org/abs/2503.13364v2)|**[link](https://github.com/jussalcedoga-dartmouth/nh_nl_dynamics_dimer)**|
 |**2025-03-10**|**Topological mechanical neural networks as classifiers through in situ backpropagation learning**|Shuaifeng Li et.al.|[2503.07796v1](http://arxiv.org/abs/2503.07796v1)|null|
 |**2025-03-10**|**Transforming Traditional Neural Networks into Neuromorphic Quantum-Cognitive Models: A Tutorial with Applications**|Milan Maksimovic et.al.|[2503.07681v1](http://arxiv.org/abs/2503.07681v1)|**[link](https://github.com/IvanMaksymov/Quantum-Tunnelling-Neural-Networks-Tutorial)**|
@@ -559,5 +559,5 @@
 |**2022-07-12**|**Multistable Topological Mechanical Metamaterials**|Haning Xiu et.al.|[2207.05826v1](http://arxiv.org/abs/2207.05826v1)|null|
 |**2022-10-19**|**Mechanism of the Resistivity Switching Induced by the Joule Heating in Crystalline NbO$_2$**|Samuel W. Olin et.al.|[2207.02682v2](http://arxiv.org/abs/2207.02682v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250605>back to top</a>)</p>
 
