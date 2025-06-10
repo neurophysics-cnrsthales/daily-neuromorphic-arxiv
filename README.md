@@ -1,4 +1,4 @@
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -32,7 +32,7 @@
 |**2024-10-25**|**Tunneling current-controlled spin states in few-layer van der Waals magnets**|ZhuangEn Fu et.al.|[2410.19255v1](http://arxiv.org/abs/2410.19255v1)|null|
 |**2024-10-03**|**Resolving and routing the magnetic polymorphs in 2D layered antiferromagnet**|Zeyuan Sun et.al.|[2410.02993v1](http://arxiv.org/abs/2410.02993v1)|null|
 |**2024-09-16**|**Neuromorphic Spintronics**|Atreya Majumdar et.al.|[2409.10290v1](http://arxiv.org/abs/2409.10290v1)|null|
-|**2024-10-18**|**Spintronic Neuron Using a Magnetic Tunnel Junction for Low-Power Neuromorphic Computing**|Steven Louis et.al.|[2409.09268v2](http://arxiv.org/abs/2409.09268v2)|null|
+|**2025-06-09**|**Spintronic Neuron Using a Magnetic Tunnel Junction for Low-Power Neuromorphic Computing**|Steven Louis et.al.|[2409.09268v3](http://arxiv.org/abs/2409.09268v3)|null|
 |**2024-09-13**|**Gradient-based optimization of spintronic devices**|Yusuke Imai et.al.|[2409.09105v1](http://arxiv.org/abs/2409.09105v1)|null|
 |**2024-09-11**|**Development of large scale CVD grown two dimensional materials for field-effect transistors, thermally-driven neuromorphic memory, and spintronics applications**|Sameer Kumar Mallik et.al.|[2409.07357v1](http://arxiv.org/abs/2409.07357v1)|null|
 |**2024-09-06**|**Mott materials: unsuccessful metals with a bright future**|Alessandra Milloch et.al.|[2409.04154v1](http://arxiv.org/abs/2409.04154v1)|null|
@@ -120,7 +120,7 @@
 |**2020-10-23**|**Recent Progress on Electrical Excitation and Manipulation of Spin-Waves in Spin Hall Nano-Oscillators**|Liyuan Li et.al.|[2006.09737v2](http://arxiv.org/abs/2006.09737v2)|null|
 |**2020-06-03**|**Giant voltage control of spin Hall nano-oscillator damping**|Himanshu Fulara et.al.|[2006.02151v1](http://arxiv.org/abs/2006.02151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## Spintronics - Circuit
 
@@ -231,7 +231,7 @@
 |**2020-08-23**|**Picosecond Spin Orbit Torque Switching**|Kaushalya Jhuria et.al.|[1912.01377v4](http://arxiv.org/abs/1912.01377v4)|null|
 |**2019-12-03**|**Spin-Orbit-Torque-based Devices, Circuits and Architectures**|Farshad Moradi et.al.|[1912.01347v1](http://arxiv.org/abs/1912.01347v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## Neuromorphics - Online Learning
 
@@ -402,7 +402,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## Spintronics - RF
 
@@ -446,7 +446,7 @@
 |**2012-08-09**|**Disorder-free sputtering method on graphene**|Xue Peng Qiu et.al.|[1208.1835v1](http://arxiv.org/abs/1208.1835v1)|null|
 |**2012-05-21**|**Manipulating dipolar and spin-exchange interactions in spin-1 Bose-Einstein condensates**|Bo-Yuan Ning et.al.|[1201.1779v3](http://arxiv.org/abs/1201.1779v3)|null|
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## Neuromorphics - Quantum
 
@@ -561,5 +561,5 @@
 |**2022-07-12**|**Multistable Topological Mechanical Metamaterials**|Haning Xiu et.al.|[2207.05826v1](http://arxiv.org/abs/2207.05826v1)|null|
 |**2022-10-19**|**Mechanism of the Resistivity Switching Induced by the Joule Heating in Crystalline NbO$_2$**|Samuel W. Olin et.al.|[2207.02682v2](http://arxiv.org/abs/2207.02682v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
