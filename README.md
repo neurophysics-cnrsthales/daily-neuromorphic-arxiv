@@ -1,4 +1,4 @@
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -120,7 +120,7 @@
 |**2020-10-23**|**Recent Progress on Electrical Excitation and Manipulation of Spin-Waves in Spin Hall Nano-Oscillators**|Liyuan Li et.al.|[2006.09737v2](http://arxiv.org/abs/2006.09737v2)|null|
 |**2020-06-03**|**Giant voltage control of spin Hall nano-oscillator damping**|Himanshu Fulara et.al.|[2006.02151v1](http://arxiv.org/abs/2006.02151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250617>back to top</a>)</p>
 
 ## Spintronics - Circuit
 
@@ -231,7 +231,7 @@
 |**2020-08-23**|**Picosecond Spin Orbit Torque Switching**|Kaushalya Jhuria et.al.|[1912.01377v4](http://arxiv.org/abs/1912.01377v4)|null|
 |**2019-12-03**|**Spin-Orbit-Torque-based Devices, Circuits and Architectures**|Farshad Moradi et.al.|[1912.01347v1](http://arxiv.org/abs/1912.01347v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250617>back to top</a>)</p>
 
 ## Neuromorphics - Online Learning
 
@@ -404,7 +404,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250617>back to top</a>)</p>
 
 ## Spintronics - RF
 
@@ -448,7 +448,7 @@
 |**2012-08-09**|**Disorder-free sputtering method on graphene**|Xue Peng Qiu et.al.|[1208.1835v1](http://arxiv.org/abs/1208.1835v1)|null|
 |**2012-05-21**|**Manipulating dipolar and spin-exchange interactions in spin-1 Bose-Einstein condensates**|Bo-Yuan Ning et.al.|[1201.1779v3](http://arxiv.org/abs/1201.1779v3)|null|
 
-<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250617>back to top</a>)</p>
 
 ## Neuromorphics - Quantum
 
@@ -505,6 +505,7 @@
 |**2024-05-15**|**Scalable single-microring hybrid III-V/Si lasers for emerging narrow-linewidth applications**|Jiawei Wang et.al.|[2405.09020v1](http://arxiv.org/abs/2405.09020v1)|null|
 |**2024-05-07**|**Anomalous Gate-tunable Capacitance in Graphene Moiré Heterostructures**|Linshang Chen et.al.|[2405.03976v1](http://arxiv.org/abs/2405.03976v1)|null|
 |**2024-05-03**|**Neuromorphic Correlates of Artificial Consciousness**|Anwaar Ulhaq et.al.|[2405.02370v1](http://arxiv.org/abs/2405.02370v1)|null|
+|**2025-06-13**|**Accelerating Discovery of Metal-Insulator Transition Compounds Using Physics-Informed Machine Learning**|Alexandru B. Georgescu et.al.|[2404.08653v2](http://arxiv.org/abs/2404.08653v2)|null|
 |**2024-04-09**|**Quantum graph models for transport in filamentary switching**|Alison A. Silva et.al.|[2404.06628v1](http://arxiv.org/abs/2404.06628v1)|null|
 |**2024-11-02**|**Linear and Nonlinear Coupling of Light in Twin-Resonators with Kerr Nonlinearity**|Arghadeep Pal et.al.|[2404.05646v2](http://arxiv.org/abs/2404.05646v2)|null|
 |**2025-04-02**|**Photon Number-Resolving Quantum Reservoir Computing**|Sam Nerenberg et.al.|[2402.06339v4](http://arxiv.org/abs/2402.06339v4)|null|
@@ -563,5 +564,5 @@
 |**2022-07-12**|**Multistable Topological Mechanical Metamaterials**|Haning Xiu et.al.|[2207.05826v1](http://arxiv.org/abs/2207.05826v1)|null|
 |**2022-10-19**|**Mechanism of the Resistivity Switching Induced by the Joule Heating in Crystalline NbO$_2$**|Samuel W. Olin et.al.|[2207.02682v2](http://arxiv.org/abs/2207.02682v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250617>back to top</a>)</p>
 
