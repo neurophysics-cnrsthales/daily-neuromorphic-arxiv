@@ -377,7 +377,9 @@
     "2505.24161": "|**2025-05-30**|**Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control**|Zijie Xu et.al.|[2505.24161v1](http://arxiv.org/abs/2505.24161v1)|null|\n",
     "2506.04629": "|**2025-06-05**|**Analog dual classifier via a time-modulated neuromorphic metasurface**|M. Mousa et.al.|[2506.04629v1](http://arxiv.org/abs/2506.04629v1)|null|\n",
     "2504.08534": "|**2025-06-11**|**An FPGA Compiler for On-the-Fly Adaptive CNN Deployment and Reconfiguration**|Alaa Mazouz et.al.|[2504.08534v3](http://arxiv.org/abs/2504.08534v3)|null|\n",
-    "2506.11030": "|**2025-05-20**|**Forward Target Propagation: A Forward-Only Approach to Global Error Credit Assignment via Local Losses**|Nazmus Saadat As-Saquib et.al.|[2506.11030v1](http://arxiv.org/abs/2506.11030v1)|null|\n"
+    "2506.11030": "|**2025-05-20**|**Forward Target Propagation: A Forward-Only Approach to Global Error Credit Assignment via Local Losses**|Nazmus Saadat As-Saquib et.al.|[2506.11030v1](http://arxiv.org/abs/2506.11030v1)|null|\n",
+    "2506.14464": "|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464v1](http://arxiv.org/abs/2506.14464v1)|null|\n",
+    "2506.14138": "|**2025-06-17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|Ashish Gautam et.al.|[2506.14138v1](http://arxiv.org/abs/2506.14138v1)|null|\n"
   },
   "Spintronics - RF": {
     "2504.04273": "|**2025-04-05**|**Spin-Torque-Driven Non-uniform Dynamics of an Antivortex Core in Truncated Astroid Shaped Nanomagnets**|Ahmet Koral Aykin et.al.|[2504.04273v1](http://arxiv.org/abs/2504.04273v1)|null|\n",
@@ -444,7 +446,7 @@
     "2410.09131": "|**2024-10-11**|**Universal Model for Ferroelectric Capacitors Operating Down to Deep Cryogenic Temperatures**|Ella Paasio et.al.|[2410.09131v1](http://arxiv.org/abs/2410.09131v1)|null|\n",
     "2408.06379": "|**2024-08-09**|**The probabilistic world II : Quantum mechanics from classical statistics**|C. Wetterich et.al.|[2408.06379v1](http://arxiv.org/abs/2408.06379v1)|null|\n",
     "2408.00755": "|**2024-09-12**|**Thermal Conductivity Predictions with Foundation Atomistic Models**|Bal\u00e1zs P\u00f3ta et.al.|[2408.00755v4](http://arxiv.org/abs/2408.00755v4)|**[link](https://github.com/msimoncelli/fmlp_conductivity)**|\n",
-    "2408.00661": "|**2024-09-03**|**Neuromorphic detection and cooling of microparticle arrays**|Yugang Ren et.al.|[2408.00661v2](http://arxiv.org/abs/2408.00661v2)|null|\n",
+    "2408.00661": "|**2025-06-17**|**Neuromorphic detection and cooling of microparticle arrays**|Yugang Ren et.al.|[2408.00661v3](http://arxiv.org/abs/2408.00661v3)|null|\n",
     "2408.03884": "|**2024-07-29**|**Quantum Computing and Neuromorphic Computing for Safe, Reliable, and explainable Multi-Agent Reinforcement Learning: Optimal Control in Autonomous Robotics**|Mazyar Taghavi et.al.|[2408.03884v1](http://arxiv.org/abs/2408.03884v1)|null|\n",
     "2407.17010": "|**2024-07-24**|**Selective and Quasi-continuous Switching of Ferroelectric Chern Insulator Device for Neuromorphic Computing**|Moyu Chen et.al.|[2407.17010v1](http://arxiv.org/abs/2407.17010v1)|null|\n",
     "2407.16625": "|**2024-07-23**|**Phase Symmetry Breaking of Counterpropagating Light in Microresonators for Switches and Logic Gates**|Alekhya Ghosh et.al.|[2407.16625v1](http://arxiv.org/abs/2407.16625v1)|null|\n",
