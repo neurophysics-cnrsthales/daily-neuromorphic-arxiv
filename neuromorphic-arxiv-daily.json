@@ -379,7 +379,8 @@
     "2504.08534": "|**2025-06-11**|**An FPGA Compiler for On-the-Fly Adaptive CNN Deployment and Reconfiguration**|Alaa Mazouz et.al.|[2504.08534v3](http://arxiv.org/abs/2504.08534v3)|null|\n",
     "2506.11030": "|**2025-05-20**|**Forward Target Propagation: A Forward-Only Approach to Global Error Credit Assignment via Local Losses**|Nazmus Saadat As-Saquib et.al.|[2506.11030v1](http://arxiv.org/abs/2506.11030v1)|null|\n",
     "2506.14464": "|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464v1](http://arxiv.org/abs/2506.14464v1)|null|\n",
-    "2506.14138": "|**2025-06-17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|Ashish Gautam et.al.|[2506.14138v1](http://arxiv.org/abs/2506.14138v1)|null|\n"
+    "2506.14138": "|**2025-06-17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|Ashish Gautam et.al.|[2506.14138v1](http://arxiv.org/abs/2506.14138v1)|null|\n",
+    "2506.16436": "|**2025-06-19**|**An efficient neuromorphic approach for collision avoidance combining Stack-CNN with event cameras**|Antonio Giulio Coretti et.al.|[2506.16436v1](http://arxiv.org/abs/2506.16436v1)|null|\n"
   },
   "Spintronics - RF": {
     "2504.04273": "|**2025-04-05**|**Spin-Torque-Driven Non-uniform Dynamics of an Antivortex Core in Truncated Astroid Shaped Nanomagnets**|Ahmet Koral Aykin et.al.|[2504.04273v1](http://arxiv.org/abs/2504.04273v1)|null|\n",
@@ -529,6 +530,7 @@
     "2309.15593": "|**2025-05-22**|**A Fourier Neural Operator Approach for Modelling Exciton-Polariton Condensate Systems**|Yuan Wang et.al.|[2309.15593v3](http://arxiv.org/abs/2309.15593v3)|null|\n",
     "2505.21168": "|**2025-05-27**|**Ultra-Broadband plug-and-play photonic circuit packaging with sub-dB loss**|Erik Jung et.al.|[2505.21168v1](http://arxiv.org/abs/2505.21168v1)|null|\n",
     "2505.20442": "|**2025-05-26**|**Quantum simulations of complex systems**|Oliver Morsch et.al.|[2505.20442v1](http://arxiv.org/abs/2505.20442v1)|null|\n",
-    "2404.08653": "|**2025-06-13**|**Accelerating Discovery of Metal-Insulator Transition Compounds Using Physics-Informed Machine Learning**|Alexandru B. Georgescu et.al.|[2404.08653v2](http://arxiv.org/abs/2404.08653v2)|null|\n"
+    "2404.08653": "|**2025-06-13**|**Accelerating Discovery of Metal-Insulator Transition Compounds Using Physics-Informed Machine Learning**|Alexandru B. Georgescu et.al.|[2404.08653v2](http://arxiv.org/abs/2404.08653v2)|null|\n",
+    "2506.16158": "|**2025-06-19**|**Electric-field control of zero-dimensional topological states in ultranarrow germanene nanoribbons**|Lumen Eek et.al.|[2506.16158v1](http://arxiv.org/abs/2506.16158v1)|null|\n"
   }
 }
