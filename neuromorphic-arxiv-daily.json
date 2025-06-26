@@ -324,7 +324,7 @@
     "2411.11233": "|**2024-11-18**|**Noise Filtering Benchmark for Neuromorphic Satellites Observations**|Sami Arja et.al.|[2411.11233v1](http://arxiv.org/abs/2411.11233v1)|**[link](https://github.com/samiarja/dvs_sparse_filter)**|\n",
     "2411.11082": "|**2024-11-27**|**STOP: Spatiotemporal Orthogonal Propagation for Weight-Threshold-Leakage Synergistic Training of Deep Spiking Neural Networks**|Haoran Gao et.al.|[2411.11082v2](http://arxiv.org/abs/2411.11082v2)|null|\n",
     "2411.10435": "|**2025-01-17**|**The Spatial Complexity of Optical Computing and How to Reduce It**|Yandong Li et.al.|[2411.10435v2](http://arxiv.org/abs/2411.10435v2)|**[link](https://github.com/lyd5039/The-Spatial-Complexity-of-Optical-Computing)**|\n",
-    "2411.10504": "|**2024-11-15**|**USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**|Kang Chen et.al.|[2411.10504v1](http://arxiv.org/abs/2411.10504v1)|**[link](https://github.com/chenkang455/usp-gaussian)**|\n",
+    "2411.10504": "|**2025-06-25**|**USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**|Kang Chen et.al.|[2411.10504v2](http://arxiv.org/abs/2411.10504v2)|**[link](https://github.com/chenkang455/usp-gaussian)**|\n",
     "2411.10101": "|**2024-11-15**|**Recent Advances on Machine Learning-aided DSP for Short-reach and Long-haul Optical Communications**|Laurent Schmalen et.al.|[2411.10101v1](http://arxiv.org/abs/2411.10101v1)|null|\n",
     "2411.09093": "|**2024-11-13**|**Extending Quantum Perceptrons: Rydberg Devices, Multi-Class Classification, and Error Tolerance**|Ishita Agarwal et.al.|[2411.09093v1](http://arxiv.org/abs/2411.09093v1)|null|\n",
     "2411.06613": "|**2025-02-21**|**Are Neuromorphic Architectures Inherently Privacy-preserving? An Exploratory Study**|Ayana Moshruba et.al.|[2411.06613v2](http://arxiv.org/abs/2411.06613v2)|null|\n",
@@ -534,6 +534,7 @@
     "2505.20442": "|**2025-05-26**|**Quantum simulations of complex systems**|Oliver Morsch et.al.|[2505.20442v1](http://arxiv.org/abs/2505.20442v1)|null|\n",
     "2404.08653": "|**2025-06-13**|**Accelerating Discovery of Metal-Insulator Transition Compounds Using Physics-Informed Machine Learning**|Alexandru B. Georgescu et.al.|[2404.08653v2](http://arxiv.org/abs/2404.08653v2)|null|\n",
     "2506.16158": "|**2025-06-19**|**Electric-field control of zero-dimensional topological states in ultranarrow germanene nanoribbons**|Lumen Eek et.al.|[2506.16158v1](http://arxiv.org/abs/2506.16158v1)|null|\n",
-    "2506.19124": "|**2025-06-23**|**Future prospect of anisotropic 2D tin sulfide (SnS) for emerging electronic and quantum device applications**|Abdus Salam Sarkar et.al.|[2506.19124v1](http://arxiv.org/abs/2506.19124v1)|null|\n"
+    "2506.19124": "|**2025-06-23**|**Future prospect of anisotropic 2D tin sulfide (SnS) for emerging electronic and quantum device applications**|Abdus Salam Sarkar et.al.|[2506.19124v1](http://arxiv.org/abs/2506.19124v1)|null|\n",
+    "2506.19964": "|**2025-06-24**|**Higher-Order Neuromorphic Ising Machines -- Autoencoders and Fowler-Nordheim Annealers are all you need for Scalability**|Faiek Ahsan et.al.|[2506.19964v1](http://arxiv.org/abs/2506.19964v1)|null|\n"
   }
 }

@@ -1,4 +1,4 @@
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -120,7 +120,7 @@
 |**2020-10-23**|**Recent Progress on Electrical Excitation and Manipulation of Spin-Waves in Spin Hall Nano-Oscillators**|Liyuan Li et.al.|[2006.09737v2](http://arxiv.org/abs/2006.09737v2)|null|
 |**2020-06-03**|**Giant voltage control of spin Hall nano-oscillator damping**|Himanshu Fulara et.al.|[2006.02151v1](http://arxiv.org/abs/2006.02151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250626>back to top</a>)</p>
 
 ## Spintronics - Circuit
 
@@ -231,7 +231,7 @@
 |**2020-08-23**|**Picosecond Spin Orbit Torque Switching**|Kaushalya Jhuria et.al.|[1912.01377v4](http://arxiv.org/abs/1912.01377v4)|null|
 |**2019-12-03**|**Spin-Orbit-Torque-based Devices, Circuits and Architectures**|Farshad Moradi et.al.|[1912.01347v1](http://arxiv.org/abs/1912.01347v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250626>back to top</a>)</p>
 
 ## Neuromorphics - Online Learning
 
@@ -327,7 +327,7 @@
 |**2024-11-18**|**Analysis of Generalized Hebbian Learning Algorithm for Neuromorphic Hardware Using Spinnaker**|Shivani Sharma et.al.|[2411.11575v1](http://arxiv.org/abs/2411.11575v1)|null|
 |**2024-11-18**|**Noise Filtering Benchmark for Neuromorphic Satellites Observations**|Sami Arja et.al.|[2411.11233v1](http://arxiv.org/abs/2411.11233v1)|**[link](https://github.com/samiarja/dvs_sparse_filter)**|
 |**2024-11-27**|**STOP: Spatiotemporal Orthogonal Propagation for Weight-Threshold-Leakage Synergistic Training of Deep Spiking Neural Networks**|Haoran Gao et.al.|[2411.11082v2](http://arxiv.org/abs/2411.11082v2)|null|
-|**2024-11-15**|**USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**|Kang Chen et.al.|[2411.10504v1](http://arxiv.org/abs/2411.10504v1)|**[link](https://github.com/chenkang455/usp-gaussian)**|
+|**2025-06-25**|**USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**|Kang Chen et.al.|[2411.10504v2](http://arxiv.org/abs/2411.10504v2)|**[link](https://github.com/chenkang455/usp-gaussian)**|
 |**2024-11-01**|**Reply to: Limitations in odour recognition and generalisation in a neuromorphic olfactory circuit**|Roy Moyal et.al.|[2411.10456v1](http://arxiv.org/abs/2411.10456v1)|null|
 |**2025-01-17**|**The Spatial Complexity of Optical Computing and How to Reduce It**|Yandong Li et.al.|[2411.10435v2](http://arxiv.org/abs/2411.10435v2)|**[link](https://github.com/lyd5039/The-Spatial-Complexity-of-Optical-Computing)**|
 |**2024-11-15**|**Recent Advances on Machine Learning-aided DSP for Short-reach and Long-haul Optical Communications**|Laurent Schmalen et.al.|[2411.10101v1](http://arxiv.org/abs/2411.10101v1)|null|
@@ -409,7 +409,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250626>back to top</a>)</p>
 
 ## Spintronics - RF
 
@@ -453,12 +453,13 @@
 |**2012-08-09**|**Disorder-free sputtering method on graphene**|Xue Peng Qiu et.al.|[1208.1835v1](http://arxiv.org/abs/1208.1835v1)|null|
 |**2012-05-21**|**Manipulating dipolar and spin-exchange interactions in spin-1 Bose-Einstein condensates**|Bo-Yuan Ning et.al.|[1201.1779v3](http://arxiv.org/abs/1201.1779v3)|null|
 
-<p align=right>(<a href=#Updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250626>back to top</a>)</p>
 
 ## Neuromorphics - Quantum
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Higher-Order Neuromorphic Ising Machines -- Autoencoders and Fowler-Nordheim Annealers are all you need for Scalability**|Faiek Ahsan et.al.|[2506.19964v1](http://arxiv.org/abs/2506.19964v1)|null|
 |**2025-06-23**|**Future prospect of anisotropic 2D tin sulfide (SnS) for emerging electronic and quantum device applications**|Abdus Salam Sarkar et.al.|[2506.19124v1](http://arxiv.org/abs/2506.19124v1)|null|
 |**2025-06-19**|**Electric-field control of zero-dimensional topological states in ultranarrow germanene nanoribbons**|Lumen Eek et.al.|[2506.16158v1](http://arxiv.org/abs/2506.16158v1)|null|
 |**2025-05-27**|**Ultra-Broadband plug-and-play photonic circuit packaging with sub-dB loss**|Erik Jung et.al.|[2505.21168v1](http://arxiv.org/abs/2505.21168v1)|null|
@@ -571,5 +572,5 @@
 |**2022-07-12**|**Multistable Topological Mechanical Metamaterials**|Haning Xiu et.al.|[2207.05826v1](http://arxiv.org/abs/2207.05826v1)|null|
 |**2022-10-19**|**Mechanism of the Resistivity Switching Induced by the Joule Heating in Crystalline NbO$_2$**|Samuel W. Olin et.al.|[2207.02682v2](http://arxiv.org/abs/2207.02682v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250626>back to top</a>)</p>
 
