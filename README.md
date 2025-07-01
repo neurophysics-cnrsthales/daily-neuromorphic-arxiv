@@ -1,4 +1,4 @@
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -120,12 +120,13 @@
 |**2020-10-23**|**Recent Progress on Electrical Excitation and Manipulation of Spin-Waves in Spin Hall Nano-Oscillators**|Liyuan Li et.al.|[2006.09737v2](http://arxiv.org/abs/2006.09737v2)|null|
 |**2020-06-03**|**Giant voltage control of spin Hall nano-oscillator damping**|Himanshu Fulara et.al.|[2006.02151v1](http://arxiv.org/abs/2006.02151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
 
 ## Spintronics - Circuit
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-29**|**Superconducting exchange coupling driven bistable and absolute switching**|Sonam Bhakat et.al.|[2506.23109v1](http://arxiv.org/abs/2506.23109v1)|null|
 |**2025-05-17**|**Semiconductor quantum well magnetic memory using confinement from proximity exchange fields for high magnetoresistances in a field-effect transistor**|William S. Rogers et.al.|[2505.11767v1](http://arxiv.org/abs/2505.11767v1)|null|
 |**2025-05-09**|**What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips**|Renjie Li et.al.|[2505.05794v1](http://arxiv.org/abs/2505.05794v1)|null|
 |**2025-04-24**|**THz Emission from Spintronic Microstructure**|Abbas Ghaffari et.al.|[2504.17579v1](http://arxiv.org/abs/2504.17579v1)|null|
@@ -231,12 +232,14 @@
 |**2020-08-23**|**Picosecond Spin Orbit Torque Switching**|Kaushalya Jhuria et.al.|[1912.01377v4](http://arxiv.org/abs/1912.01377v4)|null|
 |**2019-12-03**|**Spin-Orbit-Torque-based Devices, Circuits and Architectures**|Farshad Moradi et.al.|[1912.01347v1](http://arxiv.org/abs/1912.01347v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
 
 ## Neuromorphics - Online Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting**|Alexis Melot et.al.|[2506.24041v1](http://arxiv.org/abs/2506.24041v1)|null|
+|**2025-06-29**|**Objective-Free Local Learning and Emergent Language Structure in Thinking Machines**|P. Myles Eugenio et.al.|[2506.23293v1](http://arxiv.org/abs/2506.23293v1)|null|
 |**2025-06-26**|**Stochastic Quantum Spiking Neural Networks with Quantum Memory and Local Learning**|Jiechen Chen et.al.|[2506.21324v1](http://arxiv.org/abs/2506.21324v1)|null|
 |**2025-06-25**|**Spiking Neural Networks for SAR Interferometric Phase Unwrapping: A Theoretical Framework for Energy-Efficient Processing**|Marc Bara et.al.|[2506.20782v1](http://arxiv.org/abs/2506.20782v1)|null|
 |**2025-06-23**|**Embedded FPGA Acceleration of Brain-Like Neural Networks: Online Learning to Scalable Inference**|Muhammad Ihsan Al Hafiz et.al.|[2506.18530v1](http://arxiv.org/abs/2506.18530v1)|null|
@@ -411,7 +414,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
 
 ## Spintronics - RF
 
@@ -455,7 +458,7 @@
 |**2012-08-09**|**Disorder-free sputtering method on graphene**|Xue Peng Qiu et.al.|[1208.1835v1](http://arxiv.org/abs/1208.1835v1)|null|
 |**2012-05-21**|**Manipulating dipolar and spin-exchange interactions in spin-1 Bose-Einstein condensates**|Bo-Yuan Ning et.al.|[1201.1779v3](http://arxiv.org/abs/1201.1779v3)|null|
 
-<p align=right>(<a href=#Updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
 
 ## Neuromorphics - Quantum
 
@@ -492,6 +495,7 @@
 |**2024-12-14**|**Room temperature exciton-polariton neural network with perovskite crystal**|Andrzej Opala et.al.|[2412.10865v1](http://arxiv.org/abs/2412.10865v1)|null|
 |**2025-03-05**|**Strong Structural Bounds for MaxSAT: The Fine Details of Using Neuromorphic and Quantum Hardware Accelerators**|Max Bannach et.al.|[2412.10289v2](http://arxiv.org/abs/2412.10289v2)|null|
 |**2024-11-22**|**Identification of large polarons and exciton polarons in rutile and anatase polymorphs of titanium dioxide**|Zhenbang Dai et.al.|[2411.15344v1](http://arxiv.org/abs/2411.15344v1)|null|
+|**2025-06-30**|**Engineering spectro-temporal light states with physics-embedded deep learning**|Shilong Liu et.al.|[2411.14410v2](http://arxiv.org/abs/2411.14410v2)|null|
 |**2024-11-13**|**Extending Quantum Perceptrons: Rydberg Devices, Multi-Class Classification, and Error Tolerance**|Ishita Agarwal et.al.|[2411.09093v1](http://arxiv.org/abs/2411.09093v1)|null|
 |**2024-11-20**|**PZT Optical Memristors**|Chenlei Li et.al.|[2411.04665v4](http://arxiv.org/abs/2411.04665v4)|null|
 |**2025-01-30**|**Braided interferometer mesh for robust photonic matrix-vector multiplications with non-ideal components**|Federico Marchesin et.al.|[2411.02243v2](http://arxiv.org/abs/2411.02243v2)|null|
@@ -577,5 +581,5 @@
 |**2022-07-12**|**Multistable Topological Mechanical Metamaterials**|Haning Xiu et.al.|[2207.05826v1](http://arxiv.org/abs/2207.05826v1)|null|
 |**2022-10-19**|**Mechanism of the Resistivity Switching Induced by the Joule Heating in Crystalline NbO$_2$**|Samuel W. Olin et.al.|[2207.02682v2](http://arxiv.org/abs/2207.02682v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
 
