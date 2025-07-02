@@ -1,4 +1,4 @@
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -120,7 +120,7 @@
 |**2020-10-23**|**Recent Progress on Electrical Excitation and Manipulation of Spin-Waves in Spin Hall Nano-Oscillators**|Liyuan Li et.al.|[2006.09737v2](http://arxiv.org/abs/2006.09737v2)|null|
 |**2020-06-03**|**Giant voltage control of spin Hall nano-oscillator damping**|Himanshu Fulara et.al.|[2006.02151v1](http://arxiv.org/abs/2006.02151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250702>back to top</a>)</p>
 
 ## Spintronics - Circuit
 
@@ -232,7 +232,7 @@
 |**2020-08-23**|**Picosecond Spin Orbit Torque Switching**|Kaushalya Jhuria et.al.|[1912.01377v4](http://arxiv.org/abs/1912.01377v4)|null|
 |**2019-12-03**|**Spin-Orbit-Torque-based Devices, Circuits and Architectures**|Farshad Moradi et.al.|[1912.01347v1](http://arxiv.org/abs/1912.01347v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250702>back to top</a>)</p>
 
 ## Neuromorphics - Online Learning
 
@@ -266,7 +266,7 @@
 |**2025-05-04**|**How to Train an Oscillator Ising Machine using Equilibrium Propagation**|Alex Gower et.al.|[2505.02103v1](http://arxiv.org/abs/2505.02103v1)|null|
 |**2025-05-02**|**Dendritic Computing with Multi-Gate Ferroelectric Field-Effect Transistors**|A N M Nafiul Islam et.al.|[2505.01635v1](http://arxiv.org/abs/2505.01635v1)|null|
 |**2025-05-02**|**Snakes in the Plane: Controllable Gliders in a Nanomagnetic Metamaterial**|Arthur Penty et.al.|[2505.01116v1](http://arxiv.org/abs/2505.01116v1)|null|
-|**2025-04-25**|**Experimental neuromorphic computing based on quantum memristor**|Mirela Selimović et.al.|[2504.18694v1](http://arxiv.org/abs/2504.18694v1)|null|
+|**2025-07-01**|**Experimental neuromorphic computing based on quantum memristor**|Mirela Selimović et.al.|[2504.18694v2](http://arxiv.org/abs/2504.18694v2)|null|
 |**2025-04-17**|**Embodied Neuromorphic Control Applied on a 7-DOF Robotic Manipulator**|Ziqi Wang et.al.|[2504.12702v1](http://arxiv.org/abs/2504.12702v1)|null|
 |**2025-04-15**|**Adaptively Pruned Spiking Neural Networks for Energy-Efficient Intracortical Neural Decoding**|Francesca Rivelli et.al.|[2504.11568v1](http://arxiv.org/abs/2504.11568v1)|null|
 |**2025-04-15**|**A PyTorch-Compatible Spike Encoding Framework for Energy-Efficient Neuromorphic Applications**|Alexandru Vasilache et.al.|[2504.11026v1](http://arxiv.org/abs/2504.11026v1)|**[link](https://github.com/alex-vasilache/spike-encoding)**|
@@ -414,7 +414,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250702>back to top</a>)</p>
 
 ## Spintronics - RF
 
@@ -458,7 +458,7 @@
 |**2012-08-09**|**Disorder-free sputtering method on graphene**|Xue Peng Qiu et.al.|[1208.1835v1](http://arxiv.org/abs/1208.1835v1)|null|
 |**2012-05-21**|**Manipulating dipolar and spin-exchange interactions in spin-1 Bose-Einstein condensates**|Bo-Yuan Ning et.al.|[1201.1779v3](http://arxiv.org/abs/1201.1779v3)|null|
 
-<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250702>back to top</a>)</p>
 
 ## Neuromorphics - Quantum
 
@@ -476,7 +476,7 @@
 |**2025-05-15**|**Optical Kerr soliton microcombs for high bandwidth communications**|Bill Corcoran et.al.|[2505.09953v1](http://arxiv.org/abs/2505.09953v1)|null|
 |**2025-05-07**|**Scalable Asynchronous Single Flux Quantum Up-Down Counter using Josephson Trapping Lines and α-Cells**|Mustafa Altay Karamuftuoglu et.al.|[2505.04069v1](http://arxiv.org/abs/2505.04069v1)|null|
 |**2025-05-17**|**Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey**|Jing Liu et.al.|[2505.01821v2](http://arxiv.org/abs/2505.01821v2)|null|
-|**2025-04-25**|**Experimental neuromorphic computing based on quantum memristor**|Mirela Selimović et.al.|[2504.18694v1](http://arxiv.org/abs/2504.18694v1)|null|
+|**2025-07-01**|**Experimental neuromorphic computing based on quantum memristor**|Mirela Selimović et.al.|[2504.18694v2](http://arxiv.org/abs/2504.18694v2)|null|
 |**2025-06-04**|**Enhanced Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.22604v2](http://arxiv.org/abs/2503.22604v2)|null|
 |**2025-04-28**|**The 2D Materials Roadmap**|Wencai Ren et.al.|[2503.22476v2](http://arxiv.org/abs/2503.22476v2)|null|
 |**2025-06-04**|**Adaptive Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.21336v3](http://arxiv.org/abs/2503.21336v3)|null|
@@ -581,5 +581,5 @@
 |**2022-07-12**|**Multistable Topological Mechanical Metamaterials**|Haning Xiu et.al.|[2207.05826v1](http://arxiv.org/abs/2207.05826v1)|null|
 |**2022-10-19**|**Mechanism of the Resistivity Switching Induced by the Joule Heating in Crystalline NbO$_2$**|Samuel W. Olin et.al.|[2207.02682v2](http://arxiv.org/abs/2207.02682v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250702>back to top</a>)</p>
 
