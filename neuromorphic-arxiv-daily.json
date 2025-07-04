@@ -388,7 +388,8 @@
     "2506.20782": "|**2025-06-25**|**Spiking Neural Networks for SAR Interferometric Phase Unwrapping: A Theoretical Framework for Energy-Efficient Processing**|Marc Bara et.al.|[2506.20782v1](http://arxiv.org/abs/2506.20782v1)|null|\n",
     "2506.24041": "|**2025-06-30**|**Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting**|Alexis Melot et.al.|[2506.24041v1](http://arxiv.org/abs/2506.24041v1)|null|\n",
     "2506.23293": "|**2025-06-29**|**Objective-Free Local Learning and Emergent Language Structure in Thinking Machines**|P. Myles Eugenio et.al.|[2506.23293v1](http://arxiv.org/abs/2506.23293v1)|null|\n",
-    "2507.01557": "|**2025-07-02**|**Interpolation-Based Event Visual Data Filtering Algorithms**|Marcin Kowlaczyk et.al.|[2507.01557v1](http://arxiv.org/abs/2507.01557v1)|null|\n"
+    "2507.01557": "|**2025-07-02**|**Interpolation-Based Event Visual Data Filtering Algorithms**|Marcin Kowlaczyk et.al.|[2507.01557v1](http://arxiv.org/abs/2507.01557v1)|null|\n",
+    "2507.01967": "|**2025-06-18**|**Ghost in the Machine: Examining the Philosophical Implications of Recursive Algorithms in Artificial Intelligence Systems**|Llewellin RG Jegels et.al.|[2507.01967v1](http://arxiv.org/abs/2507.01967v1)|null|\n"
   },
   "Spintronics - RF": {
     "2504.04273": "|**2025-04-05**|**Spin-Torque-Driven Non-uniform Dynamics of an Antivortex Core in Truncated Astroid Shaped Nanomagnets**|Ahmet Koral Aykin et.al.|[2504.04273v1](http://arxiv.org/abs/2504.04273v1)|null|\n",
@@ -545,6 +546,7 @@
     "2506.21363": "|**2025-06-26**|**Canonical Quantization of a Memristive Leaky Integrate-and-Fire Neuron Circuit**|Dean Brand et.al.|[2506.21363v1](http://arxiv.org/abs/2506.21363v1)|null|\n",
     "2506.21324": "|**2025-06-26**|**Stochastic Quantum Spiking Neural Networks with Quantum Memory and Local Learning**|Jiechen Chen et.al.|[2506.21324v1](http://arxiv.org/abs/2506.21324v1)|null|\n",
     "2506.21649": "|**2025-06-26**|**Analog Programmable-Photonic Information**|Andr\u00e9s Macho Ortiz et.al.|[2506.21649v1](http://arxiv.org/abs/2506.21649v1)|null|\n",
-    "2411.14410": "|**2025-06-30**|**Engineering spectro-temporal light states with physics-embedded deep learning**|Shilong Liu et.al.|[2411.14410v2](http://arxiv.org/abs/2411.14410v2)|null|\n"
+    "2411.14410": "|**2025-06-30**|**Engineering spectro-temporal light states with physics-embedded deep learning**|Shilong Liu et.al.|[2411.14410v2](http://arxiv.org/abs/2411.14410v2)|null|\n",
+    "2507.01967": "|**2025-06-18**|**Ghost in the Machine: Examining the Philosophical Implications of Recursive Algorithms in Artificial Intelligence Systems**|Llewellin RG Jegels et.al.|[2507.01967v1](http://arxiv.org/abs/2507.01967v1)|null|\n"
   }
 }
