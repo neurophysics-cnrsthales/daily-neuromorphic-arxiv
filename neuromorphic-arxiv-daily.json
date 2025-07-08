@@ -103,7 +103,8 @@
     "2505.05794": "|**2025-05-09**|**What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips**|Renjie Li et.al.|[2505.05794v1](http://arxiv.org/abs/2505.05794v1)|null|\n",
     "2505.07489": "|**2025-05-12**|**Beyond the Octupole Approximation in Non-Collinear Antiferromagnetic Thin Films**|Freya Johnson et.al.|[2505.07489v1](http://arxiv.org/abs/2505.07489v1)|null|\n",
     "2505.11767": "|**2025-05-17**|**Semiconductor quantum well magnetic memory using confinement from proximity exchange fields for high magnetoresistances in a field-effect transistor**|William S. Rogers et.al.|[2505.11767v1](http://arxiv.org/abs/2505.11767v1)|null|\n",
-    "2506.05938": "|**2025-06-06**|**Curvature induced modifications of chirality and magnetic configuration in perpendicular magnetized films**|David Raftrey et.al.|[2506.05938v1](http://arxiv.org/abs/2506.05938v1)|null|\n"
+    "2506.05938": "|**2025-06-06**|**Curvature induced modifications of chirality and magnetic configuration in perpendicular magnetized films**|David Raftrey et.al.|[2506.05938v1](http://arxiv.org/abs/2506.05938v1)|null|\n",
+    "2507.04677": "|**2025-07-07**|**NeuroPDE: A Neuromorphic PDE Solver Based on Spintronic and Ferroelectric Devices**|Siqing Fu et.al.|[2507.04677v1](http://arxiv.org/abs/2507.04677v1)|null|\n"
   },
   "Spintronics - Circuit": {
     "2503.20813": "|**2025-05-18**|**A Physics-Based Circuit Model for Magnetic Tunnel Junctions**|Steven Louis et.al.|[2503.20813v3](http://arxiv.org/abs/2503.20813v3)|null|\n",
@@ -389,7 +390,8 @@
     "2506.24041": "|**2025-06-30**|**Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting**|Alexis Melot et.al.|[2506.24041v1](http://arxiv.org/abs/2506.24041v1)|null|\n",
     "2506.23293": "|**2025-06-29**|**Objective-Free Local Learning and Emergent Language Structure in Thinking Machines**|P. Myles Eugenio et.al.|[2506.23293v1](http://arxiv.org/abs/2506.23293v1)|null|\n",
     "2507.01557": "|**2025-07-02**|**Interpolation-Based Event Visual Data Filtering Algorithms**|Marcin Kowlaczyk et.al.|[2507.01557v1](http://arxiv.org/abs/2507.01557v1)|null|\n",
-    "2507.01967": "|**2025-06-18**|**Ghost in the Machine: Examining the Philosophical Implications of Recursive Algorithms in Artificial Intelligence Systems**|Llewellin RG Jegels et.al.|[2507.01967v1](http://arxiv.org/abs/2507.01967v1)|null|\n"
+    "2507.01967": "|**2025-06-18**|**Ghost in the Machine: Examining the Philosophical Implications of Recursive Algorithms in Artificial Intelligence Systems**|Llewellin RG Jegels et.al.|[2507.01967v1](http://arxiv.org/abs/2507.01967v1)|null|\n",
+    "2507.02901": "|**2025-06-23**|**Online Continual Learning via Spiking Neural Networks with Sleep Enhanced Latent Replay**|Erliang Lin et.al.|[2507.02901v1](http://arxiv.org/abs/2507.02901v1)|null|\n"
   },
   "Spintronics - RF": {
     "2504.04273": "|**2025-04-05**|**Spin-Torque-Driven Non-uniform Dynamics of an Antivortex Core in Truncated Astroid Shaped Nanomagnets**|Ahmet Koral Aykin et.al.|[2504.04273v1](http://arxiv.org/abs/2504.04273v1)|null|\n",
@@ -457,7 +459,7 @@
     "2408.06379": "|**2024-08-09**|**The probabilistic world II : Quantum mechanics from classical statistics**|C. Wetterich et.al.|[2408.06379v1](http://arxiv.org/abs/2408.06379v1)|null|\n",
     "2408.00755": "|**2024-09-12**|**Thermal Conductivity Predictions with Foundation Atomistic Models**|Bal\u00e1zs P\u00f3ta et.al.|[2408.00755v4](http://arxiv.org/abs/2408.00755v4)|**[link](https://github.com/msimoncelli/fmlp_conductivity)**|\n",
     "2408.00661": "|**2025-06-17**|**Neuromorphic detection and cooling of microparticle arrays**|Yugang Ren et.al.|[2408.00661v3](http://arxiv.org/abs/2408.00661v3)|null|\n",
-    "2408.03884": "|**2024-07-29**|**Quantum Computing and Neuromorphic Computing for Safe, Reliable, and explainable Multi-Agent Reinforcement Learning: Optimal Control in Autonomous Robotics**|Mazyar Taghavi et.al.|[2408.03884v1](http://arxiv.org/abs/2408.03884v1)|null|\n",
+    "2408.03884": "|**2025-07-05**|**Quantum Computing and Neuromorphic Computing for Safe, Reliable, and explainable Multi-Agent Reinforcement Learning: Optimal Control in Autonomous Robotics**|Mazyar Taghavi et.al.|[2408.03884v2](http://arxiv.org/abs/2408.03884v2)|null|\n",
     "2407.17010": "|**2024-07-24**|**Selective and Quasi-continuous Switching of Ferroelectric Chern Insulator Device for Neuromorphic Computing**|Moyu Chen et.al.|[2407.17010v1](http://arxiv.org/abs/2407.17010v1)|null|\n",
     "2407.16625": "|**2024-07-23**|**Phase Symmetry Breaking of Counterpropagating Light in Microresonators for Switches and Logic Gates**|Alekhya Ghosh et.al.|[2407.16625v1](http://arxiv.org/abs/2407.16625v1)|null|\n",
     "2407.16398": "|**2024-07-23**|**A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network**|Dean Brand et.al.|[2407.16398v1](http://arxiv.org/abs/2407.16398v1)|**[link](https://github.com/deanbrand/QSNN)**|\n",
