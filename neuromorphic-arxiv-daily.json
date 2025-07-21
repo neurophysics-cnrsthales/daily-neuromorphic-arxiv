@@ -304,7 +304,7 @@
     "2501.13610": "|**2025-01-23**|**Efficient Synaptic Delay Implementation in Digital Event-Driven AI Accelerators**|Roy Meijer et.al.|[2501.13610v1](http://arxiv.org/abs/2501.13610v1)|null|\n",
     "2501.13504": "|**2025-04-22**|**Continuous signal sparse encoding using analog neuromorphic variability**|Filippo Costa et.al.|[2501.13504v2](http://arxiv.org/abs/2501.13504v2)|null|\n",
     "2501.16337": "|**2025-01-09**|**Explore Activation Sparsity in Recurrent LLMs for Energy-Efficient Neuromorphic Computing**|Ivan Knunyants et.al.|[2501.16337v1](http://arxiv.org/abs/2501.16337v1)|**[link](https://github.com/ernis-lab/llm-activation-sparsity)**|\n",
-    "2412.17305": "|**2025-01-19**|**Exploiting Label Skewness for Spiking Neural Networks in Federated Learning**|Di Yu et.al.|[2412.17305v2](http://arxiv.org/abs/2412.17305v2)|null|\n",
+    "2412.17305": "|**2025-07-18**|**Exploiting Label Skewness for Spiking Neural Networks in Federated Learning**|Di Yu et.al.|[2412.17305v3](http://arxiv.org/abs/2412.17305v3)|null|\n",
     "2412.16804": "|**2024-12-21**|**Development of a Neuromorphic Network Using BioSFQ Circuits**|Evan B. Golden et.al.|[2412.16804v1](http://arxiv.org/abs/2412.16804v1)|null|\n",
     "2412.15021": "|**2025-03-19**|**Event-based backpropagation on the neuromorphic platform SpiNNaker2**|Gabriel B\u00e9na et.al.|[2412.15021v4](http://arxiv.org/abs/2412.15021v4)|null|\n",
     "2412.12696": "|**2024-12-17**|**ALADE-SNN: Adaptive Logit Alignment in Dynamically Expandable Spiking Neural Networks for Class Incremental Learning**|Wenyao Ni et.al.|[2412.12696v1](http://arxiv.org/abs/2412.12696v1)|null|\n",
@@ -393,7 +393,8 @@
     "2507.01557": "|**2025-07-02**|**Interpolation-Based Event Visual Data Filtering Algorithms**|Marcin Kowlaczyk et.al.|[2507.01557v1](http://arxiv.org/abs/2507.01557v1)|null|\n",
     "2507.01967": "|**2025-06-18**|**Ghost in the Machine: Examining the Philosophical Implications of Recursive Algorithms in Artificial Intelligence Systems**|Llewellin RG Jegels et.al.|[2507.01967v1](http://arxiv.org/abs/2507.01967v1)|null|\n",
     "2507.02901": "|**2025-07-10**|**Online Continual Learning via Spiking Neural Networks with Sleep Enhanced Latent Replay**|Erliang Lin et.al.|[2507.02901v2](http://arxiv.org/abs/2507.02901v2)|null|\n",
-    "2507.08320": "|**2025-07-11**|**NeurOptimisation: The Spiking Way to Evolve**|Jorge Mario Cruz-Duarte et.al.|[2507.08320v1](http://arxiv.org/abs/2507.08320v1)|null|\n"
+    "2507.08320": "|**2025-07-11**|**NeurOptimisation: The Spiking Way to Evolve**|Jorge Mario Cruz-Duarte et.al.|[2507.08320v1](http://arxiv.org/abs/2507.08320v1)|null|\n",
+    "2507.14069": "|**2025-07-18**|**Edge Intelligence with Spiking Neural Networks**|Shuiguang Deng et.al.|[2507.14069v1](http://arxiv.org/abs/2507.14069v1)|null|\n"
   },
   "Spintronics - RF": {
     "2504.04273": "|**2025-04-05**|**Spin-Torque-Driven Non-uniform Dynamics of an Antivortex Core in Truncated Astroid Shaped Nanomagnets**|Ahmet Koral Aykin et.al.|[2504.04273v1](http://arxiv.org/abs/2504.04273v1)|null|\n",
